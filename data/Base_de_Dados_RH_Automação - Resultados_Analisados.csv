@@ -1,0 +1,1474 @@
+EmployeeNumber,Cargo_Traduzido,MonthlyIncome,Score_de_Risco,Nivel_de_Risco,HorasExtras_PT,JobSatisfaction,YearsSinceLastPromotion
+351,Técnico(a) de Laboratório,2593,90,Alto Risco,Sim,1,7
+1604,Técnico(a) de Laboratório,2408,85,Alto Risco,Sim,2,0
+1569,Técnico(a) de Laboratório,2074,85,Alto Risco,Sim,1,0
+1494,Técnico(a) de Laboratório,3172,85,Alto Risco,Sim,1,0
+811,Técnico(a) de Laboratório,1601,85,Alto Risco,Sim,1,0
+816,Técnico(a) de Laboratório,2319,85,Alto Risco,Sim,1,0
+952,Representante de Vendas,2413,85,Alto Risco,Sim,2,0
+2069,Técnico(a) de Laboratório,2850,85,Alto Risco,Sim,2,0
+614,Representante de Vendas,1878,85,Alto Risco,Sim,2,0
+1783,Técnico(a) de Laboratório,2398,85,Alto Risco,Sim,1,0
+959,Representante de Vendas,2121,85,Alto Risco,Sim,2,0
+10,Técnico(a) de Laboratório,2670,85,Alto Risco,Sim,1,0
+881,Cientista de Pesquisa,2022,75,Alto Risco,Sim,2,7
+454,Técnico(a) de Laboratório,2119,75,Alto Risco,Sim,1,0
+394,Técnico(a) de Laboratório,2373,75,Alto Risco,Sim,2,0
+1244,Cientista de Pesquisa,2235,75,Alto Risco,Sim,1,6
+1674,Técnico(a) de Laboratório,2587,75,Alto Risco,Sim,1,2
+554,Representante de Vendas,3202,75,Alto Risco,Sim,2,1
+1278,Representante de Saúde,13577,75,Alto Risco,Sim,2,15
+913,Cientista de Pesquisa,2559,75,Alto Risco,Sim,1,7
+932,Técnico(a) de Laboratório,2404,75,Alto Risco,Sim,1,2
+1649,Técnico(a) de Laboratório,2166,75,Alto Risco,Sim,1,0
+1458,Técnico(a) de Laboratório,3646,75,Alto Risco,Sim,1,0
+1331,Representante de Vendas,2302,75,Alto Risco,Sim,2,2
+478,Representante de Vendas,2174,75,Alto Risco,Sim,2,1
+702,Cientista de Pesquisa,3348,75,Alto Risco,Sim,1,9
+2021,Representante de Vendas,2380,75,Alto Risco,Sim,1,1
+248,Representante de Vendas,3140,75,Alto Risco,Sim,2,0
+1248,Cientista de Pesquisa,1859,70,Alto Risco,Sim,2,0
+994,Cientista de Pesquisa,2404,70,Alto Risco,Sim,1,0
+1541,Representante de Vendas,2308,70,Alto Risco,Sim,3,5
+1299,Técnico(a) de Laboratório,3339,70,Alto Risco,Sim,3,7
+1905,Cientista de Pesquisa,2307,70,Alto Risco,Sim,1,3
+51,Cientista de Pesquisa,3419,70,Alto Risco,Sim,1,0
+1016,Cientista de Pesquisa,2600,70,Alto Risco,Sim,1,0
+1292,Cientista de Pesquisa,2372,70,Alto Risco,Sim,2,0
+1844,Recursos Humanos,2335,70,Alto Risco,Sim,1,2
+214,Cientista de Pesquisa,3346,70,Alto Risco,Sim,2,0
+1691,Representante de Vendas,2655,70,Alto Risco,Sim,3,7
+1878,Cientista de Pesquisa,2472,70,Alto Risco,Sim,2,0
+1489,Executivo(a) de Vendas,4599,65,Alto Risco,Sim,2,10
+485,Representante de Vendas,2851,65,Alto Risco,Sim,3,0
+22,Técnico(a) de Laboratório,2935,65,Alto Risco,Sim,4,0
+1586,Técnico(a) de Laboratório,4723,65,Alto Risco,Sim,1,1
+1010,Técnico(a) de Laboratório,3743,65,Alto Risco,Sim,2,0
+1360,Diretor(a) de Manufatura,10008,65,Alto Risco,Sim,1,5
+167,Representante de Vendas,1675,65,Alto Risco,Sim,3,0
+957,Técnico(a) de Laboratório,4721,65,Alto Risco,Sim,1,2
+1175,Técnico(a) de Laboratório,2515,65,Alto Risco,Sim,4,0
+1055,Representante de Vendas,2220,65,Alto Risco,Sim,3,0
+1294,Diretor(a) de Manufatura,5410,65,Alto Risco,Sim,2,5
+2053,Técnico(a) de Laboratório,4025,65,Alto Risco,Sim,2,0
+918,Técnico(a) de Laboratório,2380,65,Alto Risco,Sim,4,0
+474,Cientista de Pesquisa,5974,65,Alto Risco,Sim,1,6
+363,Gerente,16872,65,Alto Risco,Sim,2,7
+622,Técnico(a) de Laboratório,2340,65,Alto Risco,Sim,4,0
+1319,Executivo(a) de Vendas,8446,65,Alto Risco,Sim,2,7
+124,Representante de Saúde,10673,65,Alto Risco,Sim,1,9
+1611,Técnico(a) de Laboratório,5769,65,Alto Risco,Sim,1,1
+436,Executivo(a) de Vendas,5228,65,Alto Risco,Sim,2,11
+927,Técnico(a) de Laboratório,2778,65,Alto Risco,Sim,4,1
+846,Executivo(a) de Vendas,4779,65,Alto Risco,Sim,2,7
+630,Cientista de Pesquisa,5577,65,Alto Risco,Sim,1,6
+1594,Técnico(a) de Laboratório,5562,65,Alto Risco,Sim,1,0
+1034,Representante de Saúde,6385,65,Alto Risco,Sim,2,6
+137,Técnico(a) de Laboratório,2926,65,Alto Risco,Sim,4,1
+1974,Técnico(a) de Laboratório,1129,65,Alto Risco,Sim,4,0
+33,Cientista de Pesquisa,3919,65,Alto Risco,Sim,1,6
+1307,Gerente,17123,65,Alto Risco,Sim,2,15
+1790,Representante de Saúde,8321,65,Alto Risco,Sim,1,5
+1237,Diretor(a) de Manufatura,10252,65,Alto Risco,Sim,1,7
+1002,Técnico(a) de Laboratório,3633,65,Alto Risco,Sim,1,0
+4,Técnico(a) de Laboratório,2090,65,Alto Risco,Sim,3,0
+392,Técnico(a) de Laboratório,3161,65,Alto Risco,Sim,3,0
+605,Diretor(a) de Manufatura,7406,65,Alto Risco,Sim,1,5
+1241,Cientista de Pesquisa,3579,65,Alto Risco,Sim,2,5
+1827,Diretor(a) de Manufatura,10333,65,Alto Risco,Sim,2,14
+1273,Representante de Vendas,1118,65,Alto Risco,Sim,4,1
+75,Técnico(a) de Laboratório,4014,65,Alto Risco,Sim,1,2
+429,Gerente,17068,65,Alto Risco,Sim,1,11
+825,Diretor(a) de Pesquisa,19246,65,Alto Risco,Sim,2,13
+382,Executivo(a) de Vendas,5605,65,Alto Risco,Sim,1,7
+556,Técnico(a) de Laboratório,1702,65,Alto Risco,Sim,4,0
+1167,Executivo(a) de Vendas,13758,65,Alto Risco,Sim,1,13
+376,Gerente,11849,65,Alto Risco,Sim,2,9
+1373,Diretor(a) de Manufatura,13402,65,Alto Risco,Sim,2,15
+1282,Gerente,19847,65,Alto Risco,Sim,2,11
+1624,Representante de Vendas,1569,65,Alto Risco,Sim,4,0
+233,Cientista de Pesquisa,3058,60,Alto Risco,Sim,2,1
+21,Cientista de Pesquisa,3298,60,Alto Risco,Sim,2,0
+991,Cientista de Pesquisa,2321,60,Alto Risco,Sim,1,1
+939,Cientista de Pesquisa,2799,60,Alto Risco,Sim,1,0
+1737,Técnico(a) de Laboratório,6472,60,Alto Risco,Sim,4,5
+1318,Executivo(a) de Vendas,9094,60,Alto Risco,Sim,2,1
+964,Cientista de Pesquisa,3617,60,Alto Risco,Sim,2,0
+1818,Recursos Humanos,2148,60,Alto Risco,Sim,2,1
+1758,Executivo(a) de Vendas,8564,60,Alto Risco,Sim,1,0
+297,Cientista de Pesquisa,2657,60,Alto Risco,Sim,1,0
+741,Cientista de Pesquisa,2216,60,Alto Risco,Sim,2,3
+1847,Cientista de Pesquisa,6962,60,Alto Risco,Sim,2,0
+284,Cientista de Pesquisa,2328,60,Alto Risco,Sim,2,2
+282,Representante de Saúde,6673,60,Alto Risco,Sim,1,0
+238,Técnico(a) de Laboratório,2088,60,Alto Risco,Não,2,7
+239,Técnico(a) de Laboratório,3072,60,Alto Risco,Não,1,6
+493,Cientista de Pesquisa,2657,60,Alto Risco,Sim,2,2
+434,Cientista de Pesquisa,2478,60,Alto Risco,Sim,2,1
+1972,Recursos Humanos,2991,60,Alto Risco,Sim,2,1
+910,Recursos Humanos,2277,60,Alto Risco,Sim,2,0
+1108,Cientista de Pesquisa,2313,60,Alto Risco,Sim,2,2
+1952,Técnico(a) de Laboratório,2867,60,Alto Risco,Não,1,7
+1131,Cientista de Pesquisa,2070,60,Alto Risco,Sim,2,2
+1792,Cientista de Pesquisa,2342,60,Alto Risco,Sim,2,2
+986,Executivo(a) de Vendas,13194,60,Alto Risco,Sim,2,0
+101,Diretor(a) de Pesquisa,13245,60,Alto Risco,Sim,1,0
+2055,Executivo(a) de Vendas,10854,60,Alto Risco,Sim,1,2
+1106,Técnico(a) de Laboratório,3691,60,Alto Risco,Sim,4,5
+515,Técnico(a) de Laboratório,3034,60,Alto Risco,Não,1,12
+1948,Cientista de Pesquisa,3065,60,Alto Risco,Sim,1,2
+1549,Técnico(a) de Laboratório,5207,60,Alto Risco,Sim,3,5
+1242,Diretor(a) de Pesquisa,13191,60,Alto Risco,Sim,1,0
+1053,Cientista de Pesquisa,2042,60,Alto Risco,Sim,1,1
+802,Cientista de Pesquisa,2782,60,Alto Risco,Sim,1,4
+1724,Diretor(a) de Manufatura,6516,60,Alto Risco,Sim,1,0
+1042,Técnico(a) de Laboratório,2743,60,Alto Risco,Não,1,15
+133,Recursos Humanos,2073,60,Alto Risco,Sim,1,0
+1937,Cientista de Pesquisa,2133,60,Alto Risco,Sim,2,0
+1111,Técnico(a) de Laboratório,2596,55,Alto Risco,Não,2,0
+235,Representante de Vendas,2325,55,Alto Risco,Não,1,0
+1875,Representante de Vendas,2856,55,Alto Risco,Não,2,0
+2003,Técnico(a) de Laboratório,2660,55,Alto Risco,Sim,3,2
+1702,Representante de Vendas,2275,55,Alto Risco,Sim,4,0
+1258,Técnico(a) de Laboratório,2559,55,Alto Risco,Não,2,0
+716,Técnico(a) de Laboratório,3221,55,Alto Risco,Sim,3,3
+1079,Técnico(a) de Laboratório,1416,55,Alto Risco,Não,1,1
+1077,Representante de Vendas,2323,55,Alto Risco,Sim,4,0
+1850,Técnico(a) de Laboratório,2379,55,Alto Risco,Sim,4,0
+1219,Técnico(a) de Laboratório,2210,55,Alto Risco,Não,2,0
+1961,Representante de Vendas,2858,55,Alto Risco,Não,1,0
+643,Técnico(a) de Laboratório,2127,55,Alto Risco,Não,2,0
+647,Técnico(a) de Laboratório,2886,55,Alto Risco,Sim,3,1
+1158,Técnico(a) de Laboratório,4766,55,Alto Risco,Sim,4,0
+648,Representante de Vendas,2033,55,Alto Risco,Não,1,0
+508,Representante de Vendas,2476,55,Alto Risco,Não,2,0
+1190,Representante de Vendas,2827,55,Alto Risco,Não,1,0
+1692,Técnico(a) de Laboratório,1393,55,Alto Risco,Não,2,0
+1286,Técnico(a) de Laboratório,2154,55,Alto Risco,Sim,3,0
+281,Técnico(a) de Laboratório,2741,55,Alto Risco,Sim,4,3
+666,Representante de Vendas,2579,55,Alto Risco,Sim,3,0
+483,Técnico(a) de Laboratório,2213,55,Alto Risco,Sim,3,1
+1928,Representante de Vendas,1091,55,Alto Risco,Não,1,0
+325,Técnico(a) de Laboratório,2436,55,Alto Risco,Sim,4,0
+1056,Representante de Vendas,1052,55,Alto Risco,Não,2,0
+1780,Representante de Vendas,2679,55,Alto Risco,Não,2,1
+686,Técnico(a) de Laboratório,2659,55,Alto Risco,Sim,4,0
+494,Representante de Vendas,2716,55,Alto Risco,Não,2,0
+1556,Representante de Vendas,2644,55,Alto Risco,Sim,4,1
+64,Técnico(a) de Laboratório,5381,55,Alto Risco,Sim,3,0
+812,Técnico(a) de Laboratório,2694,55,Alto Risco,Não,2,0
+911,Técnico(a) de Laboratório,2795,55,Alto Risco,Sim,4,0
+960,Técnico(a) de Laboratório,2973,55,Alto Risco,Não,1,0
+1495,Representante de Vendas,2033,55,Alto Risco,Não,2,0
+2023,Representante de Vendas,1790,55,Alto Risco,Não,1,1
+1534,Técnico(a) de Laboratório,2018,55,Alto Risco,Não,1,1
+113,Representante de Vendas,2322,55,Alto Risco,Não,1,0
+19,Técnico(a) de Laboratório,2028,55,Alto Risco,Sim,3,0
+925,Representante de Vendas,3294,55,Alto Risco,Sim,4,1
+934,Técnico(a) de Laboratório,2008,55,Alto Risco,Não,2,1
+54,Técnico(a) de Laboratório,2341,55,Alto Risco,Não,1,0
+896,Representante de Vendas,2800,55,Alto Risco,Sim,3,0
+47,Representante de Vendas,2683,55,Alto Risco,Sim,3,0
+1551,Técnico(a) de Laboratório,2296,55,Alto Risco,Não,1,0
+780,Cientista de Pesquisa,2686,55,Alto Risco,Sim,4,7
+65,Técnico(a) de Laboratório,3441,55,Alto Risco,Sim,3,2
+104,Técnico(a) de Laboratório,5126,55,Alto Risco,Sim,4,3
+201,Técnico(a) de Laboratório,1483,55,Alto Risco,Não,2,0
+1504,Técnico(a) de Laboratório,2561,55,Alto Risco,Não,1,0
+874,Técnico(a) de Laboratório,2818,55,Alto Risco,Sim,4,0
+205,Representante de Vendas,2306,55,Alto Risco,Sim,3,4
+1405,Cientista de Pesquisa,2394,55,Alto Risco,Sim,3,7
+68,Executivo(a) de Vendas,5454,50,Alto Risco,Sim,1,1
+1043,Diretor(a) de Manufatura,10880,50,Alto Risco,Sim,1,2
+396,Diretor(a) de Pesquisa,18665,50,Alto Risco,Sim,1,1
+787,Gerente,19859,50,Alto Risco,Sim,1,1
+1973,Gerente,19636,50,Alto Risco,Sim,2,1
+425,Técnico(a) de Laboratório,5210,50,Alto Risco,Não,1,9
+864,Executivo(a) de Vendas,10761,50,Alto Risco,Sim,1,0
+90,Cientista de Pesquisa,3388,50,Alto Risco,Sim,3,0
+1080,Cientista de Pesquisa,4615,50,Alto Risco,Sim,1,1
+1868,Cientista de Pesquisa,2439,50,Alto Risco,Sim,4,1
+141,Diretor(a) de Pesquisa,18172,50,Alto Risco,Sim,2,0
+1460,Representante de Saúde,10851,50,Alto Risco,Sim,1,0
+70,Representante de Saúde,9884,50,Alto Risco,Sim,1,2
+940,Representante de Saúde,10552,50,Alto Risco,Sim,2,0
+1317,Diretor(a) de Pesquisa,16880,50,Alto Risco,Sim,1,1
+590,Recursos Humanos,9950,50,Alto Risco,Sim,1,0
+1980,Diretor(a) de Manufatura,4440,50,Alto Risco,Sim,1,1
+1968,Executivo(a) de Vendas,10448,50,Alto Risco,Sim,1,2
+121,Executivo(a) de Vendas,5209,50,Alto Risco,Sim,2,2
+799,Diretor(a) de Manufatura,5485,50,Alto Risco,Sim,1,1
+1251,Representante de Saúde,6833,50,Alto Risco,Sim,1,0
+1669,Executivo(a) de Vendas,4187,50,Alto Risco,Sim,2,0
+1285,Técnico(a) de Laboratório,4444,50,Alto Risco,Não,2,5
+608,Recursos Humanos,2741,50,Alto Risco,Sim,3,1
+103,Recursos Humanos,5021,50,Alto Risco,Sim,2,0
+347,Cientista de Pesquisa,6545,50,Alto Risco,Sim,1,0
+1321,Gerente,11916,50,Alto Risco,Sim,1,0
+1767,Cientista de Pesquisa,2437,50,Alto Risco,Sim,3,0
+1281,Executivo(a) de Vendas,4538,50,Alto Risco,Sim,1,0
+1100,Executivo(a) de Vendas,9582,50,Alto Risco,Sim,1,4
+1862,Executivo(a) de Vendas,9907,50,Alto Risco,Sim,2,2
+374,Gerente,19045,50,Alto Risco,Sim,1,4
+904,Executivo(a) de Vendas,7642,50,Alto Risco,Sim,2,0
+1277,Gerente,18824,50,Alto Risco,Sim,2,1
+803,Diretor(a) de Manufatura,5980,50,Alto Risco,Sim,1,4
+390,Representante de Saúde,4741,50,Alto Risco,Sim,1,3
+45,Cientista de Pesquisa,2293,50,Alto Risco,Sim,4,2
+879,Executivo(a) de Vendas,4194,50,Alto Risco,Sim,1,0
+998,Representante de Saúde,5488,50,Alto Risco,Sim,2,1
+1885,Cientista de Pesquisa,4284,50,Alto Risco,Sim,1,0
+518,Diretor(a) de Manufatura,4197,50,Alto Risco,Sim,2,0
+1998,Cientista de Pesquisa,5410,50,Alto Risco,Sim,1,1
+267,Cientista de Pesquisa,3564,50,Alto Risco,Sim,1,1
+1352,Gerente,14026,50,Alto Risco,Sim,2,0
+1015,Diretor(a) de Pesquisa,11416,50,Alto Risco,Sim,1,1
+463,Executivo(a) de Vendas,8268,50,Alto Risco,Sim,2,1
+466,Diretor(a) de Manufatura,6032,50,Alto Risco,Sim,2,1
+514,Cientista de Pesquisa,2285,50,Alto Risco,Sim,4,0
+470,Recursos Humanos,2696,50,Alto Risco,Sim,3,1
+1425,Executivo(a) de Vendas,9278,50,Alto Risco,Sim,2,0
+240,Executivo(a) de Vendas,5006,50,Alto Risco,Sim,1,0
+699,Diretor(a) de Manufatura,8847,50,Alto Risco,Sim,2,0
+241,Cientista de Pesquisa,4257,50,Alto Risco,Sim,1,2
+1157,Executivo(a) de Vendas,8224,50,Alto Risco,Sim,1,0
+2064,Diretor(a) de Manufatura,6142,50,Alto Risco,Sim,2,0
+1423,Diretor(a) de Pesquisa,19701,50,Alto Risco,Sim,1,1
+1396,Executivo(a) de Vendas,4078,50,Alto Risco,Sim,2,1
+5,Cientista de Pesquisa,2909,50,Alto Risco,Sim,3,3
+1733,Executivo(a) de Vendas,6134,50,Alto Risco,Sim,1,2
+1203,Cientista de Pesquisa,2853,50,Alto Risco,Sim,4,0
+1893,Cientista de Pesquisa,2933,50,Alto Risco,Sim,3,1
+161,Cientista de Pesquisa,4963,50,Alto Risco,Sim,2,4
+1886,Diretor(a) de Manufatura,4788,50,Alto Risco,Sim,2,0
+1218,Executivo(a) de Vendas,8966,50,Alto Risco,Sim,1,1
+449,Executivo(a) de Vendas,6349,50,Alto Risco,Sim,2,1
+729,Executivo(a) de Vendas,10475,50,Alto Risco,Sim,1,1
+582,Gerente,13610,45,Risco Moderado,Sim,3,7
+1684,Técnico(a) de Laboratório,3989,45,Risco Moderado,Sim,3,1
+1659,Técnico(a) de Laboratório,2013,45,Risco Moderado,Não,2,1
+1667,Executivo(a) de Vendas,4581,45,Risco Moderado,Sim,4,6
+14,Técnico(a) de Laboratório,2426,45,Risco Moderado,Não,2,0
+15,Técnico(a) de Laboratório,4193,45,Risco Moderado,Sim,3,0
+486,Técnico(a) de Laboratório,3452,45,Risco Moderado,Não,1,0
+585,Representante de Vendas,2983,45,Risco Moderado,Não,2,1
+7,Técnico(a) de Laboratório,3468,45,Risco Moderado,Não,2,2
+399,Representante de Vendas,2789,45,Risco Moderado,Não,2,2
+401,Executivo(a) de Vendas,5828,45,Risco Moderado,Sim,4,7
+1706,Executivo(a) de Vendas,7847,45,Risco Moderado,Sim,4,8
+1576,Cientista de Pesquisa,2367,45,Risco Moderado,Não,1,7
+1772,Técnico(a) de Laboratório,2289,45,Risco Moderado,Não,1,0
+894,Técnico(a) de Laboratório,5231,45,Risco Moderado,Sim,4,1
+27,Representante de Vendas,3407,45,Risco Moderado,Não,1,0
+1703,Representante de Saúde,7879,45,Risco Moderado,Sim,4,6
+1675,Técnico(a) de Laboratório,2440,45,Risco Moderado,Não,2,3
+893,Representante de Vendas,2899,45,Risco Moderado,Não,2,1
+1234,Técnico(a) de Laboratório,2743,45,Risco Moderado,Não,2,2
+1883,Técnico(a) de Laboratório,2062,45,Risco Moderado,Não,1,1
+1216,Técnico(a) de Laboratório,3196,45,Risco Moderado,Não,1,3
+1698,Técnico(a) de Laboratório,2028,45,Risco Moderado,Não,2,2
+1547,Representante de Saúde,10124,45,Risco Moderado,Sim,4,13
+530,Técnico(a) de Laboratório,2218,45,Risco Moderado,Não,1,3
+529,Cientista de Pesquisa,4449,45,Risco Moderado,Sim,3,10
+880,Diretor(a) de Manufatura,10685,45,Risco Moderado,Sim,3,5
+1564,Técnico(a) de Laboratório,2450,45,Risco Moderado,Não,1,1
+1932,Cientista de Pesquisa,5747,45,Risco Moderado,Sim,4,6
+1542,Técnico(a) de Laboratório,4841,45,Risco Moderado,Não,2,0
+1539,Diretor(a) de Pesquisa,14411,45,Risco Moderado,Sim,4,13
+1535,Executivo(a) de Vendas,7083,45,Risco Moderado,Sim,3,8
+1768,Técnico(a) de Laboratório,2766,45,Risco Moderado,Não,2,0
+1680,Representante de Vendas,2728,45,Risco Moderado,Não,1,0
+517,Técnico(a) de Laboratório,2576,45,Risco Moderado,Não,1,1
+1550,Gerente,16437,45,Risco Moderado,Sim,4,7
+471,Técnico(a) de Laboratório,2370,45,Risco Moderado,Não,2,0
+73,Diretor(a) de Pesquisa,13458,45,Risco Moderado,Sim,4,8
+2013,Representante de Vendas,2269,45,Risco Moderado,Não,2,2
+389,Técnico(a) de Laboratório,5415,45,Risco Moderado,Sim,4,0
+1314,Recursos Humanos,3423,45,Risco Moderado,Não,1,5
+1019,Técnico(a) de Laboratório,2451,45,Risco Moderado,Não,1,1
+1447,Técnico(a) de Laboratório,3294,45,Risco Moderado,Não,2,0
+766,Representante de Vendas,2297,45,Risco Moderado,Não,2,2
+1333,Técnico(a) de Laboratório,2362,45,Risco Moderado,Não,1,1
+951,Técnico(a) de Laboratório,2332,45,Risco Moderado,Não,2,0
+758,Técnico(a) de Laboratório,2500,45,Risco Moderado,Não,1,0
+663,Técnico(a) de Laboratório,5679,45,Risco Moderado,Sim,3,4
+1017,Técnico(a) de Laboratório,2422,45,Risco Moderado,Não,2,1
+1992,Técnico(a) de Laboratório,3977,45,Risco Moderado,Sim,3,0
+163,Executivo(a) de Vendas,6172,45,Risco Moderado,Sim,3,7
+667,Representante de Vendas,3041,45,Risco Moderado,Não,1,0
+1434,Técnico(a) de Laboratório,2099,45,Risco Moderado,Não,1,1
+1815,Executivo(a) de Vendas,10447,45,Risco Moderado,Sim,3,13
+1361,Técnico(a) de Laboratório,2387,45,Risco Moderado,Não,2,0
+1014,Representante de Saúde,10388,45,Risco Moderado,Sim,3,10
+1735,Técnico(a) de Laboratório,3295,45,Risco Moderado,Não,2,1
+746,Executivo(a) de Vendas,13770,45,Risco Moderado,Sim,3,11
+1835,Representante de Vendas,5405,45,Risco Moderado,Sim,4,0
+1639,Executivo(a) de Vendas,10306,45,Risco Moderado,Não,1,6
+961,Representante de Saúde,5855,45,Risco Moderado,Sim,4,8
+1421,Representante de Saúde,7553,45,Risco Moderado,Sim,4,7
+2017,Diretor(a) de Pesquisa,13744,45,Risco Moderado,Sim,4,6
+1409,Técnico(a) de Laboratório,2950,45,Risco Moderado,Não,1,0
+1389,Diretor(a) de Manufatura,6179,45,Risco Moderado,Sim,3,6
+1001,Técnico(a) de Laboratório,2811,45,Risco Moderado,Não,2,2
+200,Técnico(a) de Laboratório,2238,45,Risco Moderado,Não,1,1
+1752,Representante de Vendas,2760,45,Risco Moderado,Não,2,2
+2009,Representante de Saúde,4878,45,Risco Moderado,Sim,4,8
+2010,Técnico(a) de Laboratório,2837,45,Risco Moderado,Não,2,4
+147,Técnico(a) de Laboratório,6074,45,Risco Moderado,Sim,3,0
+1324,Executivo(a) de Vendas,9852,45,Risco Moderado,Sim,3,9
+362,Técnico(a) de Laboratório,2176,45,Risco Moderado,Não,1,0
+1617,Técnico(a) de Laboratório,3211,45,Risco Moderado,Não,1,1
+206,Técnico(a) de Laboratório,2348,45,Risco Moderado,Não,2,0
+359,Técnico(a) de Laboratório,2794,45,Risco Moderado,Não,2,0
+355,Técnico(a) de Laboratório,3479,45,Risco Moderado,Não,2,1
+1513,Técnico(a) de Laboratório,3180,45,Risco Moderado,Não,2,0
+1798,Cientista de Pesquisa,3143,45,Risco Moderado,Não,1,7
+1296,Técnico(a) de Laboratório,3867,45,Risco Moderado,Sim,4,2
+1802,Técnico(a) de Laboratório,3377,45,Risco Moderado,Não,1,0
+331,Técnico(a) de Laboratório,3730,45,Risco Moderado,Sim,3,1
+329,Gerente,19068,45,Risco Moderado,Sim,3,15
+328,Técnico(a) de Laboratório,2707,45,Risco Moderado,Não,1,1
+1061,Diretor(a) de Pesquisa,19237,45,Risco Moderado,Sim,3,7
+132,Técnico(a) de Laboratório,2042,45,Risco Moderado,Não,2,1
+1797,Executivo(a) de Vendas,5813,45,Risco Moderado,Sim,4,7
+1760,Técnico(a) de Laboratório,2468,45,Risco Moderado,Não,2,0
+1039,Executivo(a) de Vendas,13320,45,Risco Moderado,Sim,4,11
+1464,Técnico(a) de Laboratório,3722,45,Risco Moderado,Sim,4,2
+1949,Técnico(a) de Laboratório,2810,45,Risco Moderado,Não,2,0
+80,Diretor(a) de Pesquisa,18740,45,Risco Moderado,Sim,3,13
+903,Executivo(a) de Vendas,4537,45,Risco Moderado,Sim,4,7
+1606,Representante de Saúde,11245,45,Risco Moderado,Sim,3,12
+78,Diretor(a) de Manufatura,6162,45,Risco Moderado,Sim,4,7
+1766,Representante de Saúde,5811,40,Risco Moderado,Sim,4,1
+1105,Executivo(a) de Vendas,6694,40,Risco Moderado,Sim,4,0
+701,Cientista de Pesquisa,1009,40,Risco Moderado,Sim,3,1
+1081,Cientista de Pesquisa,2461,40,Risco Moderado,Sim,3,2
+820,Gerente,16752,40,Risco Moderado,Sim,4,3
+848,Cientista de Pesquisa,2366,40,Risco Moderado,Sim,3,1
+586,Representante de Saúde,7632,40,Risco Moderado,Sim,3,0
+1755,Cientista de Pesquisa,2932,40,Risco Moderado,Sim,4,1
+1693,Técnico(a) de Laboratório,2570,40,Risco Moderado,Não,4,5
+1004,Cientista de Pesquisa,2132,40,Risco Moderado,Sim,3,0
+875,Cientista de Pesquisa,2515,40,Risco Moderado,Sim,4,2
+1036,Executivo(a) de Vendas,6861,40,Risco Moderado,Sim,4,0
+743,Diretor(a) de Manufatura,7861,40,Risco Moderado,Sim,3,0
+656,Executivo(a) de Vendas,9602,40,Risco Moderado,Sim,3,1
+895,Cientista de Pesquisa,2356,40,Risco Moderado,Sim,4,0
+941,Representante de Vendas,2329,40,Risco Moderado,Não,3,5
+773,Cientista de Pesquisa,3057,40,Risco Moderado,Sim,3,0
+833,Diretor(a) de Manufatura,6877,40,Risco Moderado,Sim,4,0
+1882,Executivo(a) de Vendas,9713,40,Risco Moderado,Sim,4,1
+1113,Executivo(a) de Vendas,4728,40,Risco Moderado,Sim,3,0
+1865,Recursos Humanos,2804,40,Risco Moderado,Não,2,0
+657,Cientista de Pesquisa,2836,40,Risco Moderado,Não,2,0
+1154,Cientista de Pesquisa,2703,40,Risco Moderado,Sim,3,0
+661,Diretor(a) de Pesquisa,16627,40,Risco Moderado,Sim,4,0
+763,Cientista de Pesquisa,2342,40,Risco Moderado,Sim,4,2
+662,Cientista de Pesquisa,2619,40,Risco Moderado,Não,1,0
+571,Técnico(a) de Laboratório,2564,40,Risco Moderado,Não,4,6
+1762,Cientista de Pesquisa,2109,40,Risco Moderado,Não,1,0
+639,Cientista de Pesquisa,2725,40,Risco Moderado,Sim,4,1
+1842,Recursos Humanos,2956,40,Risco Moderado,Não,1,0
+752,Cientista de Pesquisa,2759,40,Risco Moderado,Sim,3,2
+1591,Gerente,19331,40,Risco Moderado,Sim,3,0
+492,Executivo(a) de Vendas,6380,40,Risco Moderado,Sim,3,1
+1275,Cientista de Pesquisa,2875,40,Risco Moderado,Sim,4,2
+298,Gerente,13591,40,Risco Moderado,Sim,4,0
+311,Representante de Vendas,2793,40,Risco Moderado,Não,4,5
+315,Cientista de Pesquisa,2389,40,Risco Moderado,Sim,4,0
+334,Cientista de Pesquisa,3072,40,Risco Moderado,Não,1,0
+1297,Técnico(a) de Laboratório,2838,40,Risco Moderado,Não,3,7
+373,Técnico(a) de Laboratório,3210,40,Risco Moderado,Não,4,10
+1269,Cientista de Pesquisa,2994,40,Risco Moderado,Sim,4,0
+445,Executivo(a) de Vendas,5238,40,Risco Moderado,Sim,3,0
+1260,Representante de Saúde,6623,40,Risco Moderado,Sim,4,1
+1944,Recursos Humanos,2863,40,Risco Moderado,Não,2,0
+403,Cientista de Pesquisa,2326,40,Risco Moderado,Sim,4,1
+1943,Executivo(a) de Vendas,5087,40,Risco Moderado,Sim,4,0
+1939,Cientista de Pesquisa,2432,40,Risco Moderado,Sim,3,0
+1938,Gerente,17875,40,Risco Moderado,Sim,4,0
+277,Cientista de Pesquisa,3815,40,Risco Moderado,Sim,3,2
+224,Cientista de Pesquisa,2566,40,Risco Moderado,Sim,3,0
+1394,Cientista de Pesquisa,2996,40,Risco Moderado,Sim,3,1
+2020,Cientista de Pesquisa,2436,40,Risco Moderado,Sim,4,1
+1433,Cientista de Pesquisa,1261,40,Risco Moderado,Não,2,0
+1441,Cientista de Pesquisa,2066,40,Risco Moderado,Não,1,1
+2032,Técnico(a) de Laboratório,2339,40,Risco Moderado,Não,3,9
+1448,Cientista de Pesquisa,2127,40,Risco Moderado,Sim,3,0
+134,Cientista de Pesquisa,2956,40,Risco Moderado,Não,1,0
+120,Executivo(a) de Vendas,5441,40,Risco Moderado,Sim,4,1
+95,Cientista de Pesquisa,2501,40,Risco Moderado,Não,2,1
+1515,Representante de Saúde,6388,40,Risco Moderado,Sim,3,0
+79,Técnico(a) de Laboratório,2406,40,Risco Moderado,Não,4,9
+72,Executivo(a) de Vendas,4157,40,Risco Moderado,Sim,4,0
+61,Cientista de Pesquisa,3022,40,Risco Moderado,Não,2,0
+1605,Cientista de Pesquisa,2814,40,Risco Moderado,Sim,3,1
+1596,Técnico(a) de Laboratório,3407,40,Risco Moderado,Não,3,6
+440,Cientista de Pesquisa,3464,40,Risco Moderado,Sim,4,2
+426,Cientista de Pesquisa,2695,40,Risco Moderado,Sim,4,2
+1210,Cientista de Pesquisa,2107,40,Risco Moderado,Não,1,0
+1918,Técnico(a) de Laboratório,2544,40,Risco Moderado,Não,4,7
+1202,Cientista de Pesquisa,2168,40,Risco Moderado,Sim,4,1
+1224,Técnico(a) de Laboratório,3491,40,Risco Moderado,Não,3,8
+1193,Cientista de Pesquisa,2552,40,Risco Moderado,Não,1,0
+1180,Cientista de Pesquisa,4422,40,Risco Moderado,Sim,4,0
+1200,Cientista de Pesquisa,2936,40,Risco Moderado,Sim,3,0
+1683,Recursos Humanos,3195,40,Risco Moderado,Sim,4,2
+2019,Representante de Vendas,3482,35,Risco Moderado,Não,4,0
+1417,Técnico(a) de Laboratório,3578,35,Risco Moderado,Não,1,0
+1420,Técnico(a) de Laboratório,4284,35,Risco Moderado,Não,1,1
+738,Representante de Vendas,3875,35,Risco Moderado,Não,2,2
+190,Técnico(a) de Laboratório,4200,35,Risco Moderado,Não,1,0
+704,Técnico(a) de Laboratório,1281,35,Risco Moderado,Não,3,0
+467,Representante de Vendas,2976,35,Risco Moderado,Não,3,0
+1427,Representante de Vendas,1359,35,Risco Moderado,Não,3,0
+199,Gerente,17181,35,Risco Moderado,Não,1,7
+749,Representante de Vendas,2642,35,Risco Moderado,Não,3,0
+170,Diretor(a) de Manufatura,6567,35,Risco Moderado,Não,1,5
+1439,Representante de Vendas,4400,35,Risco Moderado,Não,1,2
+1619,Técnico(a) de Laboratório,4066,35,Risco Moderado,Não,1,0
+155,Técnico(a) de Laboratório,2835,35,Risco Moderado,Não,4,0
+966,Diretor(a) de Manufatura,6725,35,Risco Moderado,Não,1,6
+972,Técnico(a) de Laboratório,4447,35,Risco Moderado,Não,2,0
+153,Gerente,11631,35,Risco Moderado,Não,1,5
+1824,Gerente,16291,35,Risco Moderado,Não,2,14
+269,Técnico(a) de Laboratório,4425,35,Risco Moderado,Não,2,1
+1995,Executivo(a) de Vendas,4440,35,Risco Moderado,Não,2,5
+497,Técnico(a) de Laboratório,3816,35,Risco Moderado,Não,2,0
+1362,Executivo(a) de Vendas,4639,35,Risco Moderado,Não,1,6
+682,Executivo(a) de Vendas,8381,35,Risco Moderado,Não,1,8
+1364,Representante de Vendas,2534,35,Risco Moderado,Não,4,0
+1368,Técnico(a) de Laboratório,1611,35,Risco Moderado,Não,4,0
+1640,Cientista de Pesquisa,3936,35,Risco Moderado,Não,2,7
+1740,Gerente,19833,35,Risco Moderado,Não,2,12
+698,Recursos Humanos,10725,35,Risco Moderado,Não,2,7
+1379,Representante de Vendas,2785,35,Risco Moderado,Não,4,0
+244,Executivo(a) de Vendas,10453,35,Risco Moderado,Não,1,15
+243,Técnico(a) de Laboratório,1102,35,Risco Moderado,Não,4,1
+2000,Diretor(a) de Pesquisa,11957,35,Risco Moderado,Não,2,5
+1829,Representante de Saúde,4448,35,Risco Moderado,Não,1,7
+717,Representante de Saúde,8621,35,Risco Moderado,Não,2,7
+2012,Técnico(a) de Laboratório,2406,35,Risco Moderado,Não,4,0
+950,Diretor(a) de Pesquisa,13582,35,Risco Moderado,Não,1,5
+1618,Diretor(a) de Manufatura,5377,35,Risco Moderado,Não,1,7
+944,Técnico(a) de Laboratório,7403,35,Risco Moderado,Não,2,1
+39,Técnico(a) de Laboratório,2496,35,Risco Moderado,Não,4,0
+900,Representante de Vendas,2973,35,Risco Moderado,Não,4,0
+1892,Gerente,16823,35,Risco Moderado,Não,1,11
+1907,Técnico(a) de Laboratório,2587,35,Risco Moderado,Não,4,1
+53,Técnico(a) de Laboratório,1951,35,Risco Moderado,Não,4,0
+836,Diretor(a) de Manufatura,4434,35,Risco Moderado,Não,2,7
+1548,Executivo(a) de Vendas,5473,35,Risco Moderado,Não,1,7
+42,Representante de Vendas,2086,35,Risco Moderado,Não,4,0
+889,Executivo(a) de Vendas,6524,35,Risco Moderado,Não,2,5
+488,Executivo(a) de Vendas,9355,35,Risco Moderado,Não,2,7
+1553,Representante de Saúde,7441,35,Risco Moderado,Não,2,7
+1562,Executivo(a) de Vendas,9714,35,Risco Moderado,Não,1,6
+1599,Técnico(a) de Laboratório,4876,35,Risco Moderado,Não,2,0
+20,Diretor(a) de Manufatura,9980,35,Risco Moderado,Não,1,8
+1582,Executivo(a) de Vendas,9924,35,Risco Moderado,Não,2,7
+11,Técnico(a) de Laboratório,2693,35,Risco Moderado,Não,3,0
+1687,Técnico(a) de Laboratório,3306,35,Risco Moderado,Não,3,0
+1527,Gerente,16606,35,Risco Moderado,Não,2,5
+1523,Diretor(a) de Pesquisa,16328,35,Risco Moderado,Não,1,14
+1156,Técnico(a) de Laboratório,1904,35,Risco Moderado,Não,3,0
+1485,Diretor(a) de Pesquisa,17007,35,Risco Moderado,Não,1,6
+1152,Recursos Humanos,2844,35,Risco Moderado,Não,3,5
+145,Representante de Saúde,7484,35,Risco Moderado,Não,1,12
+144,Técnico(a) de Laboratório,2871,35,Risco Moderado,Não,4,0
+1807,Técnico(a) de Laboratório,5346,35,Risco Moderado,Não,1,0
+1182,Diretor(a) de Manufatura,10274,35,Risco Moderado,Não,2,6
+1472,Diretor(a) de Pesquisa,16598,35,Risco Moderado,Não,2,8
+119,Representante de Saúde,13503,35,Risco Moderado,Não,2,11
+1492,Representante de Vendas,2404,35,Risco Moderado,Não,3,0
+2060,Representante de Vendas,2966,35,Risco Moderado,Não,3,0
+97,Técnico(a) de Laboratório,3038,35,Risco Moderado,Não,4,0
+1502,Técnico(a) de Laboratório,3838,35,Risco Moderado,Não,2,0
+1509,Técnico(a) de Laboratório,4789,35,Risco Moderado,Não,1,1
+905,Gerente,17924,35,Risco Moderado,Não,1,14
+1911,Diretor(a) de Pesquisa,13348,35,Risco Moderado,Não,1,5
+81,Executivo(a) de Vendas,7637,35,Risco Moderado,Não,1,7
+1173,Técnico(a) de Laboratório,3597,35,Risco Moderado,Não,2,1
+1994,Técnico(a) de Laboratório,2008,35,Risco Moderado,Não,3,0
+1356,Executivo(a) de Vendas,6125,35,Risco Moderado,Não,1,9
+364,Técnico(a) de Laboratório,3485,35,Risco Moderado,Não,3,0
+1109,Gerente,17665,35,Risco Moderado,Não,1,13
+1975,Executivo(a) de Vendas,13341,35,Risco Moderado,Não,1,11
+419,Técnico(a) de Laboratório,5674,35,Risco Moderado,Não,2,0
+573,Executivo(a) de Vendas,10266,35,Risco Moderado,Não,1,13
+1867,Diretor(a) de Pesquisa,19665,35,Risco Moderado,Não,2,12
+1107,Técnico(a) de Laboratório,2377,35,Risco Moderado,Não,3,0
+1725,Técnico(a) de Laboratório,3907,35,Risco Moderado,Não,1,1
+406,Executivo(a) de Vendas,8020,35,Risco Moderado,Não,2,6
+405,Técnico(a) de Laboratório,1420,35,Risco Moderado,Não,3,0
+330,Representante de Vendas,3931,35,Risco Moderado,Não,2,1
+626,Executivo(a) de Vendas,8834,35,Risco Moderado,Não,2,7
+625,Gerente,16595,35,Risco Moderado,Não,1,11
+532,Executivo(a) de Vendas,13212,35,Risco Moderado,Não,1,7
+1083,Técnico(a) de Laboratório,3955,35,Risco Moderado,Não,1,1
+1856,Técnico(a) de Laboratório,2105,35,Risco Moderado,Não,3,2
+397,Cientista de Pesquisa,4485,35,Risco Moderado,Não,2,7
+1050,Executivo(a) de Vendas,7525,35,Risco Moderado,Não,2,6
+339,Diretor(a) de Manufatura,5957,35,Risco Moderado,Não,1,5
+1956,Cientista de Pesquisa,5003,35,Risco Moderado,Não,1,8
+1658,Cientista de Pesquisa,5433,35,Risco Moderado,Não,2,7
+1288,Gerente,19190,35,Risco Moderado,Não,1,14
+1132,Técnico(a) de Laboratório,6782,35,Risco Moderado,Não,2,0
+591,Técnico(a) de Laboratório,2093,35,Risco Moderado,Não,3,2
+1066,Executivo(a) de Vendas,8396,35,Risco Moderado,Não,1,7
+1719,Diretor(a) de Pesquisa,16704,35,Risco Moderado,Não,2,8
+1074,Gerente,16756,35,Risco Moderado,Não,1,6
+597,Gerente,16835,35,Risco Moderado,Não,2,7
+381,Gerente,11996,35,Risco Moderado,Não,2,6
+567,Executivo(a) de Vendas,8412,35,Risco Moderado,Não,1,7
+411,Representante de Vendas,1200,35,Risco Moderado,Não,3,0
+1204,Gerente,17048,35,Risco Moderado,Não,1,15
+1329,Executivo(a) de Vendas,6151,35,Risco Moderado,Não,2,11
+1030,Técnico(a) de Laboratório,2380,35,Risco Moderado,Não,4,0
+521,Técnico(a) de Laboratório,3448,35,Risco Moderado,Não,3,0
+428,Gerente,11878,35,Risco Moderado,Não,2,8
+549,Gerente,19566,35,Risco Moderado,Não,1,11
+1876,Representante de Vendas,1081,35,Risco Moderado,Não,4,0
+1986,Executivo(a) de Vendas,5677,35,Risco Moderado,Não,2,5
+538,Técnico(a) de Laboratório,4031,35,Risco Moderado,Não,1,0
+1936,Diretor(a) de Manufatura,5151,35,Risco Moderado,Não,1,7
+536,Técnico(a) de Laboratório,4558,35,Risco Moderado,Não,1,1
+304,Técnico(a) de Laboratório,5914,35,Risco Moderado,Não,2,3
+555,Representante de Vendas,2351,35,Risco Moderado,Não,3,1
+433,Cientista de Pesquisa,4941,35,Risco Moderado,Não,2,7
+1870,Cientista de Pesquisa,4774,35,Risco Moderado,Não,1,7
+644,Gerente,18200,35,Risco Moderado,Não,2,10
+1989,Técnico(a) de Laboratório,3748,35,Risco Moderado,Não,2,1
+1338,Gerente,19717,35,Risco Moderado,Não,2,7
+1268,Executivo(a) de Vendas,8380,30,Risco Moderado,Sim,3,0
+1118,Representante de Saúde,10445,30,Risco Moderado,Não,2,4
+924,Representante de Saúde,6586,30,Risco Moderado,Sim,4,4
+926,Diretor(a) de Manufatura,4171,30,Risco Moderado,Sim,3,0
+1771,Cientista de Pesquisa,3055,30,Risco Moderado,Não,2,1
+1774,Executivo(a) de Vendas,4001,30,Risco Moderado,Sim,3,0
+1480,Técnico(a) de Laboratório,3673,30,Risco Moderado,Não,4,5
+1770,Diretor(a) de Pesquisa,19038,30,Risco Moderado,Não,1,0
+1775,Diretor(a) de Manufatura,12965,30,Risco Moderado,Sim,3,0
+1487,Executivo(a) de Vendas,5765,30,Risco Moderado,Não,2,0
+920,Diretor(a) de Manufatura,4765,30,Risco Moderado,Não,2,0
+1243,Executivo(a) de Vendas,10377,30,Risco Moderado,Sim,4,4
+1212,Executivo(a) de Vendas,4327,30,Risco Moderado,Não,2,0
+1661,Representante de Saúde,13966,30,Risco Moderado,Sim,3,2
+1125,Executivo(a) de Vendas,7351,30,Risco Moderado,Não,2,0
+1704,Cientista de Pesquisa,4930,30,Risco Moderado,Sim,4,1
+1235,Cientista de Pesquisa,4998,30,Risco Moderado,Sim,3,0
+1522,Cientista de Pesquisa,2362,30,Risco Moderado,Não,1,0
+1475,Cientista de Pesquisa,3420,30,Risco Moderado,Não,2,1
+1552,Representante de Saúde,4069,30,Risco Moderado,Sim,4,2
+1710,Representante de Vendas,4502,30,Risco Moderado,Não,4,6
+1496,Diretor(a) de Manufatura,10209,30,Risco Moderado,Sim,3,2
+1503,Executivo(a) de Vendas,4591,30,Risco Moderado,Sim,3,1
+878,Recursos Humanos,2342,30,Risco Moderado,Não,1,0
+1764,Cientista de Pesquisa,2718,30,Risco Moderado,Não,2,0
+1501,Representante de Saúde,4035,30,Risco Moderado,Sim,3,1
+1608,Diretor(a) de Pesquisa,19049,30,Risco Moderado,Sim,4,1
+1609,Cientista de Pesquisa,2141,30,Risco Moderado,Não,2,1
+1587,Representante de Saúde,6142,30,Risco Moderado,Sim,3,0
+1645,Executivo(a) de Vendas,5440,30,Risco Moderado,Sim,4,2
+1614,Diretor(a) de Manufatura,4663,30,Risco Moderado,Sim,3,1
+1678,Executivo(a) de Vendas,7082,30,Risco Moderado,Sim,3,0
+1401,Diretor(a) de Manufatura,13247,30,Risco Moderado,Sim,3,0
+1195,Cientista de Pesquisa,4477,30,Risco Moderado,Sim,3,0
+1150,Diretor(a) de Manufatura,5056,30,Risco Moderado,Sim,4,1
+1392,Cientista de Pesquisa,5467,30,Risco Moderado,Sim,4,3
+1311,Técnico(a) de Laboratório,4627,30,Risco Moderado,Não,4,6
+1390,Executivo(a) de Vendas,6120,30,Risco Moderado,Sim,4,1
+1315,Técnico(a) de Laboratório,6674,30,Risco Moderado,Não,4,7
+1638,Diretor(a) de Manufatura,7756,30,Risco Moderado,Sim,3,0
+1003,Executivo(a) de Vendas,4163,30,Risco Moderado,Sim,4,0
+1119,Executivo(a) de Vendas,8740,30,Risco Moderado,Sim,3,2
+1033,Representante de Saúde,4777,30,Risco Moderado,Não,2,0
+1380,Executivo(a) de Vendas,4614,30,Risco Moderado,Sim,3,3
+1646,Cientista de Pesquisa,3760,30,Risco Moderado,Sim,4,1
+1377,Técnico(a) de Laboratório,5429,30,Risco Moderado,Não,3,7
+1005,Diretor(a) de Manufatura,13973,30,Risco Moderado,Sim,3,1
+1032,Diretor(a) de Manufatura,13726,30,Risco Moderado,Sim,4,4
+1372,Executivo(a) de Vendas,13695,30,Risco Moderado,Sim,3,3
+1731,Executivo(a) de Vendas,4978,30,Risco Moderado,Não,2,0
+1732,Executivo(a) de Vendas,10368,30,Risco Moderado,Sim,4,0
+1734,Executivo(a) de Vendas,6735,30,Risco Moderado,Não,2,0
+1641,Diretor(a) de Manufatura,7945,30,Risco Moderado,Sim,4,3
+1334,Gerente,17861,30,Risco Moderado,Sim,3,2
+1350,Cientista de Pesquisa,4249,30,Risco Moderado,Sim,3,1
+987,Diretor(a) de Manufatura,5067,30,Risco Moderado,Sim,3,2
+1402,Cientista de Pesquisa,4081,30,Risco Moderado,Sim,3,1
+1465,Diretor(a) de Manufatura,9380,30,Risco Moderado,Sim,4,1
+1306,Gerente,18061,30,Risco Moderado,Não,2,0
+1461,Recursos Humanos,2109,30,Risco Moderado,Não,2,0
+1681,Executivo(a) de Vendas,5368,30,Risco Moderado,Sim,4,1
+942,Representante de Saúde,4014,30,Risco Moderado,Sim,4,0
+1642,Recursos Humanos,5743,30,Risco Moderado,Sim,4,0
+1291,Cientista de Pesquisa,3506,30,Risco Moderado,Sim,3,2
+1654,Diretor(a) de Manufatura,5295,30,Risco Moderado,Não,2,1
+1445,Executivo(a) de Vendas,4162,30,Risco Moderado,Sim,3,0
+954,Executivo(a) de Vendas,9705,30,Risco Moderado,Não,2,0
+1136,Cientista de Pesquisa,3201,30,Risco Moderado,Não,2,0
+1431,Cientista de Pesquisa,2996,30,Risco Moderado,Não,1,1
+1049,Recursos Humanos,2177,30,Risco Moderado,Não,2,0
+1048,Gerente,11904,30,Risco Moderado,Sim,4,0
+1430,Diretor(a) de Pesquisa,16422,30,Risco Moderado,Não,2,1
+1622,Diretor(a) de Manufatura,4877,30,Risco Moderado,Não,1,0
+1046,Técnico(a) de Laboratório,4025,30,Risco Moderado,Não,3,7
+1298,Diretor(a) de Manufatura,4695,30,Risco Moderado,Sim,3,1
+1143,Cientista de Pesquisa,3291,30,Risco Moderado,Não,2,1
+1301,Cientista de Pesquisa,2080,30,Risco Moderado,Não,1,1
+967,Executivo(a) de Vendas,10325,30,Risco Moderado,Sim,4,3
+1303,Cientista de Pesquisa,2096,30,Risco Moderado,Não,2,2
+1403,Executivo(a) de Vendas,5769,30,Risco Moderado,Sim,4,4
+983,Executivo(a) de Vendas,5666,30,Risco Moderado,Sim,4,1
+1753,Representante de Saúde,6294,30,Risco Moderado,Sim,3,0
+1233,Executivo(a) de Vendas,5220,30,Risco Moderado,Sim,4,1
+1,Executivo(a) de Vendas,5993,30,Risco Moderado,Sim,4,0
+862,Executivo(a) de Vendas,10934,30,Risco Moderado,Sim,4,0
+246,Cientista de Pesquisa,3929,30,Risco Moderado,Sim,4,0
+679,Cientista de Pesquisa,6322,30,Risco Moderado,Sim,4,0
+437,Executivo(a) de Vendas,4478,30,Risco Moderado,Sim,3,0
+431,Representante de Saúde,13964,30,Risco Moderado,Sim,3,0
+424,Recursos Humanos,6410,30,Risco Moderado,Não,1,1
+684,Executivo(a) de Vendas,4286,30,Risco Moderado,Não,1,0
+423,Cientista de Pesquisa,4821,30,Risco Moderado,Sim,4,0
+422,Representante de Saúde,5660,30,Risco Moderado,Sim,3,1
+1837,Diretor(a) de Pesquisa,15787,30,Risco Moderado,Sim,3,2
+705,Cientista de Pesquisa,2819,30,Risco Moderado,Não,1,0
+386,Diretor(a) de Pesquisa,17584,30,Risco Moderado,Sim,3,1
+380,Diretor(a) de Pesquisa,13603,30,Risco Moderado,Sim,4,0
+372,Representante de Saúde,13496,30,Risco Moderado,Sim,4,4
+366,Executivo(a) de Vendas,6644,30,Risco Moderado,Não,2,0
+714,Executivo(a) de Vendas,4647,30,Risco Moderado,Sim,4,0
+1962,Executivo(a) de Vendas,5204,30,Risco Moderado,Sim,4,0
+1967,Executivo(a) de Vendas,5617,30,Risco Moderado,Sim,4,0
+723,Executivo(a) de Vendas,6796,30,Risco Moderado,Sim,3,1
+327,Gerente,16064,30,Risco Moderado,Sim,4,1
+305,Cientista de Pesquisa,2622,30,Risco Moderado,Não,2,1
+1985,Técnico(a) de Laboratório,6323,30,Risco Moderado,Não,3,9
+1987,Recursos Humanos,2187,30,Risco Moderado,Não,2,1
+275,Diretor(a) de Manufatura,6804,30,Risco Moderado,Sim,4,1
+274,Diretor(a) de Manufatura,4298,30,Risco Moderado,Não,1,2
+261,Diretor(a) de Manufatura,5916,30,Risco Moderado,Sim,3,0
+260,Cientista de Pesquisa,2279,30,Risco Moderado,Não,2,0
+258,Representante de Saúde,13734,30,Risco Moderado,Não,2,1
+252,Cientista de Pesquisa,2756,30,Risco Moderado,Não,2,1
+671,Gerente,19513,30,Risco Moderado,Sim,4,0
+1935,Executivo(a) de Vendas,5380,30,Risco Moderado,Não,1,0
+1933,Executivo(a) de Vendas,9854,30,Risco Moderado,Sim,3,2
+507,Executivo(a) de Vendas,4260,30,Risco Moderado,Sim,3,0
+1864,Representante de Vendas,3540,30,Risco Moderado,Não,3,5
+580,Executivo(a) de Vendas,9071,30,Risco Moderado,Sim,4,1
+565,Cientista de Pesquisa,2546,30,Risco Moderado,Não,2,1
+1880,Executivo(a) de Vendas,5673,30,Risco Moderado,Sim,3,1
+543,Diretor(a) de Manufatura,7969,30,Risco Moderado,Sim,3,0
+604,Executivo(a) de Vendas,6582,30,Risco Moderado,Sim,4,0
+531,Gerente,19197,30,Risco Moderado,Sim,3,1
+527,Executivo(a) de Vendas,4487,30,Risco Moderado,Sim,4,1
+526,Representante de Saúde,4522,30,Risco Moderado,Sim,3,0
+616,Representante de Saúde,6811,30,Risco Moderado,Sim,3,0
+511,Cientista de Pesquisa,2244,30,Risco Moderado,Não,2,1
+510,Cientista de Pesquisa,3102,30,Risco Moderado,Não,1,0
+505,Gerente,16659,30,Risco Moderado,Sim,4,1
+451,Representante de Saúde,9985,30,Risco Moderado,Não,1,0
+502,Executivo(a) de Vendas,5304,30,Risco Moderado,Sim,4,0
+496,Representante de Saúde,6540,30,Risco Moderado,Não,2,0
+1912,Executivo(a) de Vendas,6583,30,Risco Moderado,Sim,4,1
+638,Diretor(a) de Pesquisa,19502,30,Risco Moderado,Sim,3,0
+1915,Executivo(a) de Vendas,8103,30,Risco Moderado,Sim,4,0
+475,Executivo(a) de Vendas,4736,30,Risco Moderado,Sim,3,2
+649,Cientista de Pesquisa,3622,30,Risco Moderado,Sim,4,1
+1927,Executivo(a) de Vendas,6834,30,Risco Moderado,Sim,4,0
+462,Diretor(a) de Manufatura,7143,30,Risco Moderado,Sim,4,4
+461,Diretor(a) de Pesquisa,11510,30,Risco Moderado,Sim,4,2
+1931,Cientista de Pesquisa,2226,30,Risco Moderado,Não,2,1
+453,Executivo(a) de Vendas,7457,30,Risco Moderado,Sim,4,0
+247,Cientista de Pesquisa,2311,30,Risco Moderado,Não,2,1
+306,Diretor(a) de Pesquisa,12185,30,Risco Moderado,Sim,4,0
+1789,Diretor(a) de Pesquisa,19328,30,Risco Moderado,Sim,4,2
+843,Diretor(a) de Pesquisa,17159,30,Risco Moderado,Não,1,1
+31,Cientista de Pesquisa,2960,30,Risco Moderado,Não,1,1
+1803,Representante de Saúde,5538,30,Risco Moderado,Não,1,0
+844,Diretor(a) de Pesquisa,12808,30,Risco Moderado,Sim,4,0
+175,Executivo(a) de Vendas,4559,30,Risco Moderado,Sim,3,2
+94,Cientista de Pesquisa,2703,30,Risco Moderado,Não,2,0
+164,Cientista de Pesquisa,2368,30,Risco Moderado,Não,2,4
+62,Executivo(a) de Vendas,5772,30,Risco Moderado,Sim,4,0
+107,Cientista de Pesquisa,5329,30,Risco Moderado,Sim,4,1
+158,Gerente,16959,30,Risco Moderado,Sim,4,4
+1805,Recursos Humanos,2592,30,Risco Moderado,Não,2,3
+2027,Cientista de Pesquisa,4787,30,Risco Moderado,Sim,4,2
+151,Cientista de Pesquisa,4505,30,Risco Moderado,Não,2,0
+148,Gerente,17328,30,Risco Moderado,Sim,4,4
+142,Executivo(a) de Vendas,5744,30,Risco Moderado,Sim,3,0
+40,Representante de Saúde,6465,30,Risco Moderado,Sim,4,1
+2038,Cientista de Pesquisa,2439,30,Risco Moderado,Não,1,1
+223,Representante de Saúde,9439,30,Risco Moderado,Sim,4,1
+2040,Recursos Humanos,8837,30,Risco Moderado,Sim,4,1
+176,Executivo(a) de Vendas,8189,30,Risco Moderado,Sim,3,0
+88,Cientista de Pesquisa,2194,30,Risco Moderado,Não,1,1
+86,Cientista de Pesquisa,9724,30,Risco Moderado,Não,1,0
+829,Recursos Humanos,2143,30,Risco Moderado,Não,2,0
+218,Cientista de Pesquisa,2024,30,Risco Moderado,Não,2,2
+857,Executivo(a) de Vendas,6201,30,Risco Moderado,Sim,4,4
+856,Cientista de Pesquisa,2559,30,Risco Moderado,Não,1,1
+84,Gerente,14756,30,Risco Moderado,Sim,3,0
+197,Cientista de Pesquisa,3204,30,Risco Moderado,Não,1,2
+771,Representante de Saúde,5093,30,Risco Moderado,Não,1,0
+24,Cientista de Pesquisa,3944,30,Risco Moderado,Sim,4,1
+2049,Representante de Saúde,5689,30,Risco Moderado,Sim,3,0
+193,Cientista de Pesquisa,4317,30,Risco Moderado,Sim,3,2
+775,Diretor(a) de Manufatura,5121,30,Risco Moderado,Não,1,0
+2018,Executivo(a) de Vendas,4907,30,Risco Moderado,Sim,3,0
+854,Cientista de Pesquisa,3424,30,Risco Moderado,Não,1,0
+827,Diretor(a) de Manufatura,6062,30,Risco Moderado,Sim,4,0
+184,Recursos Humanos,6347,30,Risco Moderado,Sim,4,4
+785,Executivo(a) de Vendas,6397,30,Risco Moderado,Sim,3,1
+55,Técnico(a) de Laboratório,2293,25,Risco Moderado,Não,3,0
+49,Representante de Vendas,2014,25,Risco Moderado,Não,4,2
+1172,Técnico(a) de Laboratório,2258,25,Risco Moderado,Não,3,1
+2061,Técnico(a) de Laboratório,2571,25,Risco Moderado,Não,4,0
+484,Representante de Vendas,2610,25,Risco Moderado,Não,4,2
+41,Técnico(a) de Laboratório,2206,25,Risco Moderado,Não,3,1
+245,Técnico(a) de Laboratório,2288,25,Risco Moderado,Não,4,2
+1160,Técnico(a) de Laboratório,2610,25,Risco Moderado,Não,3,2
+1554,Representante de Vendas,2430,25,Risco Moderado,Não,3,4
+513,Executivo(a) de Vendas,7596,25,Risco Moderado,Não,3,9
+1148,Técnico(a) de Laboratório,4272,25,Risco Moderado,Não,4,0
+1135,Representante de Vendas,2791,25,Risco Moderado,Não,4,2
+1601,Técnico(a) de Laboratório,2690,25,Risco Moderado,Não,4,0
+1701,Cientista de Pesquisa,2929,25,Risco Moderado,Não,4,8
+18,Técnico(a) de Laboratório,2661,25,Risco Moderado,Não,4,1
+562,Técnico(a) de Laboratório,2097,25,Risco Moderado,Não,4,1
+8,Técnico(a) de Laboratório,3068,25,Risco Moderado,Não,4,3
+578,Técnico(a) de Laboratório,3780,25,Risco Moderado,Não,3,0
+579,Cientista de Pesquisa,2768,25,Risco Moderado,Não,3,5
+1102,Técnico(a) de Laboratório,2207,25,Risco Moderado,Não,3,2
+525,Técnico(a) de Laboratório,2258,25,Risco Moderado,Não,4,1
+1221,Técnico(a) de Laboratório,2741,25,Risco Moderado,Não,3,1
+1533,Técnico(a) de Laboratório,2272,25,Risco Moderado,Não,3,1
+1279,Técnico(a) de Laboratório,2625,25,Risco Moderado,Não,3,2
+1627,Técnico(a) de Laboratório,3069,25,Risco Moderado,Não,3,0
+1369,Técnico(a) de Laboratório,5363,25,Risco Moderado,Não,4,0
+1996,Representante de Vendas,3067,25,Risco Moderado,Não,3,1
+216,Representante de Vendas,2231,25,Risco Moderado,Não,3,1
+198,Técnico(a) de Laboratório,2720,25,Risco Moderado,Não,4,1
+1415,Técnico(a) de Laboratório,3229,25,Risco Moderado,Não,4,0
+286,Técnico(a) de Laboratório,2153,25,Risco Moderado,Não,4,1
+584,Técnico(a) de Laboratório,3408,25,Risco Moderado,Não,4,1
+1982,Técnico(a) de Laboratório,2647,25,Risco Moderado,Não,4,1
+316,Técnico(a) de Laboratório,3212,25,Risco Moderado,Não,4,2
+332,Técnico(a) de Laboratório,2232,25,Risco Moderado,Não,3,1
+177,Recursos Humanos,2942,25,Risco Moderado,Não,3,5
+1960,Técnico(a) de Laboratório,2367,25,Risco Moderado,Não,4,0
+169,Técnico(a) de Laboratório,2523,25,Risco Moderado,Não,4,2
+1185,Técnico(a) de Laboratório,2376,25,Risco Moderado,Não,4,2
+1657,Representante de Vendas,2783,25,Risco Moderado,Não,3,2
+391,Cientista de Pesquisa,2115,25,Risco Moderado,Não,4,5
+407,Técnico(a) de Laboratório,3688,25,Risco Moderado,Não,4,0
+1246,Cientista de Pesquisa,2011,25,Risco Moderado,Não,4,7
+150,Técnico(a) de Laboratório,2774,25,Risco Moderado,Não,3,1
+430,Técnico(a) de Laboratório,2455,25,Risco Moderado,Não,4,1
+1471,Técnico(a) de Laboratório,3162,25,Risco Moderado,Não,3,0
+1486,Representante de Vendas,2909,25,Risco Moderado,Não,3,1
+448,Técnico(a) de Laboratório,5257,25,Risco Moderado,Não,3,0
+116,Técnico(a) de Laboratório,2075,25,Risco Moderado,Não,4,0
+1198,Técnico(a) de Laboratório,3033,25,Risco Moderado,Não,3,1
+1192,Técnico(a) de Laboratório,3131,25,Risco Moderado,Não,4,0
+63,Técnico(a) de Laboratório,2269,25,Risco Moderado,Não,4,0
+1709,Técnico(a) de Laboratório,2974,25,Risco Moderado,Não,3,1
+1226,Representante de Vendas,2678,25,Risco Moderado,Não,4,2
+922,Representante de Vendas,2044,25,Risco Moderado,Não,3,0
+1718,Técnico(a) de Laboratório,2305,25,Risco Moderado,Não,3,0
+683,Cientista de Pesquisa,2691,25,Risco Moderado,Não,4,8
+1052,Técnico(a) de Laboratório,4834,25,Risco Moderado,Não,3,0
+1860,Técnico(a) de Laboratório,3968,25,Risco Moderado,Não,3,0
+958,Técnico(a) de Laboratório,2519,25,Risco Moderado,Não,3,3
+832,Técnico(a) de Laboratório,5094,25,Risco Moderado,Não,3,0
+1721,Técnico(a) de Laboratório,3477,25,Risco Moderado,Não,3,0
+669,Representante de Vendas,3447,25,Risco Moderado,Não,3,1
+769,Técnico(a) de Laboratório,2450,25,Risco Moderado,Não,4,2
+1044,Representante de Vendas,2342,25,Risco Moderado,Não,4,2
+813,Técnico(a) de Laboratório,3149,25,Risco Moderado,Não,3,1
+888,Técnico(a) de Laboratório,3162,25,Risco Moderado,Não,4,3
+632,Representante de Vendas,2400,25,Risco Moderado,Não,4,2
+1070,Executivo(a) de Vendas,10686,25,Risco Moderado,Não,3,7
+974,Representante de Vendas,2157,25,Risco Moderado,Não,4,0
+882,Técnico(a) de Laboratório,2314,25,Risco Moderado,Não,4,0
+645,Representante de Vendas,2096,25,Risco Moderado,Não,3,0
+912,Técnico(a) de Laboratório,2532,25,Risco Moderado,Não,4,0
+996,Técnico(a) de Laboratório,2270,25,Risco Moderado,Não,4,0
+792,Técnico(a) de Laboratório,4364,25,Risco Moderado,Não,4,2
+992,Gerente,17444,25,Risco Moderado,Não,3,6
+805,Representante de Vendas,2572,25,Risco Moderado,Não,4,0
+1826,Técnico(a) de Laboratório,2705,25,Risco Moderado,Não,3,0
+933,Cientista de Pesquisa,2318,20,Baixo Risco,Não,3,0
+760,Recursos Humanos,6389,20,Baixo Risco,Não,2,3
+764,Representante de Saúde,6811,20,Baixo Risco,Não,1,0
+1801,Executivo(a) de Vendas,7991,20,Baixo Risco,Não,2,2
+2025,Diretor(a) de Manufatura,5131,20,Baixo Risco,Não,2,0
+204,Executivo(a) de Vendas,7295,20,Baixo Risco,Não,2,0
+160,Executivo(a) de Vendas,6146,20,Baixo Risco,Não,2,0
+202,Cientista de Pesquisa,5605,20,Baixo Risco,Não,2,2
+1621,Cientista de Pesquisa,5208,20,Baixo Risco,Não,1,1
+789,Executivo(a) de Vendas,7587,20,Baixo Risco,Não,1,0
+1756,Executivo(a) de Vendas,5147,20,Baixo Risco,Não,2,1
+1436,Executivo(a) de Vendas,5647,20,Baixo Risco,Não,1,0
+796,Executivo(a) de Vendas,5326,20,Baixo Risco,Não,1,1
+1408,Gerente,16799,20,Baixo Risco,Não,1,0
+945,Cientista de Pesquisa,2259,20,Baixo Risco,Não,3,0
+1419,Recursos Humanos,7988,20,Baixo Risco,Não,1,0
+776,Gerente,16856,20,Baixo Risco,Não,1,1
+1391,Executivo(a) de Vendas,10596,20,Baixo Risco,Não,2,3
+1428,Executivo(a) de Vendas,4779,20,Baixo Risco,Não,1,0
+178,Diretor(a) de Manufatura,4941,20,Baixo Risco,Não,2,0
+956,Executivo(a) de Vendas,4294,20,Baixo Risco,Não,1,0
+288,Representante de Saúde,9396,20,Baixo Risco,Não,1,0
+226,Gerente,19926,20,Baixo Risco,Não,2,4
+1387,Executivo(a) de Vendas,4724,20,Baixo Risco,Não,1,0
+353,Cientista de Pesquisa,2723,20,Baixo Risco,Não,4,0
+1289,Recursos Humanos,4490,20,Baixo Risco,Não,2,1
+1954,Representante de Saúde,5373,20,Baixo Risco,Não,1,0
+340,Cientista de Pesquisa,3920,20,Baixo Risco,Não,1,0
+725,Diretor(a) de Manufatura,7412,20,Baixo Risco,Não,1,0
+1651,Representante de Saúde,8008,20,Baixo Risco,Não,1,0
+309,Cientista de Pesquisa,2177,20,Baixo Risco,Não,4,0
+1310,Cientista de Pesquisa,3904,20,Baixo Risco,Não,1,0
+977,Cientista de Pesquisa,2479,20,Baixo Risco,Não,3,0
+303,Executivo(a) de Vendas,5940,20,Baixo Risco,Não,1,0
+299,Executivo(a) de Vendas,6696,20,Baixo Risco,Não,1,0
+296,Diretor(a) de Pesquisa,12490,20,Baixo Risco,Não,2,4
+1082,Representante de Saúde,8722,20,Baixo Risco,Não,1,1
+1754,Executivo(a) de Vendas,7140,20,Baixo Risco,Não,1,1
+728,Executivo(a) de Vendas,4960,20,Baixo Risco,Não,1,1
+1349,Executivo(a) de Vendas,4103,20,Baixo Risco,Não,1,1
+1355,Executivo(a) de Vendas,6893,20,Baixo Risco,Não,1,1
+1821,Representante de Saúde,8926,20,Baixo Risco,Não,2,3
+732,Executivo(a) de Vendas,5405,20,Baixo Risco,Não,1,2
+733,Diretor(a) de Manufatura,8793,20,Baixo Risco,Não,1,1
+254,Diretor(a) de Pesquisa,18722,20,Baixo Risco,Não,2,2
+1367,Diretor(a) de Manufatura,13142,20,Baixo Risco,Não,2,0
+742,Diretor(a) de Pesquisa,11713,20,Baixo Risco,Não,1,0
+250,Diretor(a) de Manufatura,4450,20,Baixo Risco,Não,1,1
+1374,Cientista de Pesquisa,2029,20,Baixo Risco,Não,3,0
+923,Cientista de Pesquisa,2693,20,Baixo Risco,Não,4,0
+1999,Cientista de Pesquisa,2782,20,Baixo Risco,Não,4,1
+1814,Representante de Saúde,6870,20,Baixo Risco,Não,2,1
+1466,Executivo(a) de Vendas,5486,20,Baixo Risco,Não,1,2
+804,Cientista de Pesquisa,4381,20,Baixo Risco,Não,1,1
+1459,Diretor(a) de Manufatura,7446,20,Baixo Risco,Não,2,4
+837,Representante de Saúde,6288,20,Baixo Risco,Não,1,1
+1544,Representante de Saúde,9715,20,Baixo Risco,Não,1,0
+1545,Diretor(a) de Manufatura,4320,20,Baixo Risco,Não,2,0
+52,Executivo(a) de Vendas,5376,20,Baixo Risco,Não,1,1
+2062,Representante de Saúde,9991,20,Baixo Risco,Não,1,1
+887,Cientista de Pesquisa,3580,20,Baixo Risco,Não,1,0
+885,Executivo(a) de Vendas,4256,20,Baixo Risco,Não,1,0
+38,Gerente,18947,20,Baixo Risco,Não,1,2
+35,Executivo(a) de Vendas,6825,20,Baixo Risco,Não,2,4
+1555,Cientista de Pesquisa,5878,20,Baixo Risco,Não,2,2
+1787,Executivo(a) de Vendas,4189,20,Baixo Risco,Não,2,0
+1558,Cientista de Pesquisa,2451,20,Baixo Risco,Não,3,0
+1560,Executivo(a) de Vendas,6392,20,Baixo Risco,Não,1,2
+30,Cientista de Pesquisa,1232,20,Baixo Risco,Não,4,0
+1602,Gerente,17567,20,Baixo Risco,Não,1,0
+28,Diretor(a) de Pesquisa,11994,20,Baixo Risco,Não,2,2
+1568,Executivo(a) de Vendas,9250,20,Baixo Risco,Não,2,1
+2065,Executivo(a) de Vendas,5390,20,Baixo Risco,Não,2,0
+1573,Diretor(a) de Manufatura,4855,20,Baixo Risco,Não,2,1
+1574,Cientista de Pesquisa,4087,20,Baixo Risco,Não,1,1
+850,Cientista de Pesquisa,1706,20,Baixo Risco,Não,4,0
+1577,Cientista de Pesquisa,2972,20,Baixo Risco,Não,4,0
+1598,Executivo(a) de Vendas,4639,20,Baixo Risco,Não,1,1
+1581,Cientista de Pesquisa,2061,20,Baixo Risco,Não,4,0
+852,Representante de Saúde,5933,20,Baixo Risco,Não,2,2
+1583,Executivo(a) de Vendas,4198,20,Baixo Risco,Não,2,1
+855,Executivo(a) de Vendas,4037,20,Baixo Risco,Não,1,0
+834,Cientista de Pesquisa,2274,20,Baixo Risco,Não,3,0
+1529,Representante de Saúde,8606,20,Baixo Risco,Não,2,3
+1525,Diretor(a) de Manufatura,8376,20,Baixo Risco,Não,2,2
+1484,Representante de Saúde,10466,20,Baixo Risco,Não,2,0
+2034,Diretor(a) de Manufatura,13570,20,Baixo Risco,Não,2,0
+2037,Executivo(a) de Vendas,8938,20,Baixo Risco,Não,2,0
+369,Representante de Saúde,4000,20,Baixo Risco,Não,1,1
+1468,Diretor(a) de Pesquisa,13757,20,Baixo Risco,Não,2,4
+1469,Executivo(a) de Vendas,8463,20,Baixo Risco,Não,1,1
+807,Representante de Saúde,4244,20,Baixo Risco,Não,2,3
+1477,Executivo(a) de Vendas,4373,20,Baixo Risco,Não,1,0
+1478,Executivo(a) de Vendas,4759,20,Baixo Risco,Não,1,3
+1613,Executivo(a) de Vendas,5332,20,Baixo Risco,Não,1,0
+808,Executivo(a) de Vendas,6500,20,Baixo Risco,Não,1,1
+1612,Executivo(a) de Vendas,4385,20,Baixo Risco,Não,1,4
+1482,Cientista de Pesquisa,1274,20,Baixo Risco,Não,3,0
+110,Diretor(a) de Manufatura,4325,20,Baixo Risco,Não,2,1
+74,Executivo(a) de Vendas,9069,20,Baixo Risco,Não,1,1
+819,Executivo(a) de Vendas,5324,20,Baixo Risco,Não,1,0
+2054,Cientista de Pesquisa,3785,20,Baixo Risco,Não,1,0
+100,Executivo(a) de Vendas,4312,20,Baixo Risco,Não,1,2
+96,Cientista de Pesquisa,6220,20,Baixo Risco,Não,2,0
+823,Diretor(a) de Manufatura,5228,20,Baixo Risco,Não,2,0
+2057,Diretor(a) de Manufatura,9936,20,Baixo Risco,Não,1,1
+1794,Recursos Humanos,4071,20,Baixo Risco,Não,2,4
+1506,Cientista de Pesquisa,1563,20,Baixo Risco,Não,3,0
+1507,Executivo(a) de Vendas,4898,20,Baixo Risco,Não,1,1
+85,Diretor(a) de Manufatura,6499,20,Baixo Risco,Não,2,0
+1514,Diretor(a) de Manufatura,6549,20,Baixo Risco,Não,2,1
+899,Diretor(a) de Manufatura,10903,20,Baixo Risco,Não,2,4
+712,Executivo(a) de Vendas,8120,20,Baixo Risco,Não,2,2
+1809,Diretor(a) de Manufatura,4213,20,Baixo Risco,Não,1,0
+1280,Gerente,18789,20,Baixo Risco,Não,2,0
+1012,Cientista de Pesquisa,1051,20,Baixo Risco,Não,4,0
+1934,Cientista de Pesquisa,5467,20,Baixo Risco,Não,2,1
+1676,Gerente,15972,20,Baixo Risco,Não,2,1
+524,Diretor(a) de Manufatura,4306,20,Baixo Risco,Não,1,3
+1694,Cientista de Pesquisa,3537,20,Baixo Risco,Não,2,1
+1138,Executivo(a) de Vendas,13120,20,Baixo Risco,Não,2,2
+1863,Executivo(a) de Vendas,13225,20,Baixo Risco,Não,1,2
+1231,Recursos Humanos,6272,20,Baixo Risco,Não,1,0
+606,Executivo(a) de Vendas,4805,20,Baixo Risco,Não,2,3
+680,Cientista de Pesquisa,2083,20,Baixo Risco,Não,3,0
+1011,Diretor(a) de Manufatura,4148,20,Baixo Risco,Não,1,0
+615,Executivo(a) de Vendas,10932,20,Baixo Risco,Não,1,0
+1126,Diretor(a) de Manufatura,10820,20,Baixo Risco,Não,1,0
+1239,Executivo(a) de Vendas,6852,20,Baixo Risco,Não,2,1
+1671,Cientista de Pesquisa,5470,20,Baixo Risco,Não,2,1
+534,Executivo(a) de Vendas,8392,20,Baixo Risco,Não,1,0
+1839,Cientista de Pesquisa,1514,20,Baixo Risco,Não,3,0
+421,Diretor(a) de Pesquisa,12061,20,Baixo Risco,Não,2,0
+412,Representante de Saúde,5661,20,Baixo Risco,Não,1,0
+1062,Representante de Saúde,4107,20,Baixo Risco,Não,2,0
+410,Gerente,16015,20,Baixo Risco,Não,2,0
+664,Gerente,15402,20,Baixo Risco,Não,1,0
+522,Diretor(a) de Pesquisa,19406,20,Baixo Risco,Não,1,1
+408,Diretor(a) de Manufatura,5482,20,Baixo Risco,Não,2,1
+1171,Executivo(a) de Vendas,5155,20,Baixo Risco,Não,1,1
+1191,Gerente,19943,20,Baixo Risco,Não,1,4
+650,Executivo(a) de Vendas,4233,20,Baixo Risco,Não,1,1
+1727,Representante de Saúde,5562,20,Baixo Risco,Não,2,0
+464,Diretor(a) de Manufatura,8095,20,Baixo Risco,Não,2,0
+1184,Representante de Saúde,5343,20,Baixo Risco,Não,1,4
+1037,Executivo(a) de Vendas,4969,20,Baixo Risco,Não,1,2
+1909,Executivo(a) de Vendas,4393,20,Baixo Risco,Não,2,1
+635,Diretor(a) de Manufatura,6447,20,Baixo Risco,Não,2,4
+458,Executivo(a) de Vendas,6214,20,Baixo Risco,Não,2,0
+1908,Executivo(a) de Vendas,5507,20,Baixo Risco,Não,2,1
+520,Diretor(a) de Pesquisa,14336,20,Baixo Risco,Não,2,3
+2,Cientista de Pesquisa,5130,20,Baixo Risco,Não,2,1
+1165,Executivo(a) de Vendas,7336,20,Baixo Risco,Não,1,3
+1206,Cientista de Pesquisa,2290,20,Baixo Risco,Não,3,0
+1903,Representante de Saúde,5033,20,Baixo Risco,Não,1,2
+1211,Executivo(a) de Vendas,4115,20,Baixo Risco,Não,1,0
+1722,Recursos Humanos,6430,20,Baixo Risco,Não,2,1
+1215,Gerente,17856,20,Baixo Risco,Não,1,2
+516,Executivo(a) de Vendas,5715,20,Baixo Risco,Não,2,1
+1217,Diretor(a) de Pesquisa,19081,20,Baixo Risco,Não,2,0
+1121,Diretor(a) de Manufatura,7655,20,Baixo Risco,Não,2,1
+641,Executivo(a) de Vendas,6272,20,Baixo Risco,Não,2,1
+1257,Cientista de Pesquisa,3692,20,Baixo Risco,Não,2,0
+1745,Cientista de Pesquisa,4968,20,Baixo Risco,Não,1,0
+1714,Recursos Humanos,1555,20,Baixo Risco,Não,3,0
+1084,Diretor(a) de Manufatura,9957,20,Baixo Risco,Não,1,0
+1655,Diretor(a) de Pesquisa,16413,20,Baixo Risco,Não,2,1
+1834,Cientista de Pesquisa,3591,20,Baixo Risco,Não,1,1
+1833,Executivo(a) de Vendas,9637,20,Baixo Risco,Não,1,2
+384,Diretor(a) de Manufatura,6397,20,Baixo Risco,Não,2,1
+1945,Executivo(a) de Vendas,5561,20,Baixo Risco,Não,1,0
+404,Executivo(a) de Vendas,13525,20,Baixo Risco,Não,2,4
+566,Recursos Humanos,2564,20,Baixo Risco,Não,4,0
+1252,Representante de Saúde,6812,20,Baixo Risco,Não,1,1
+1664,Representante de Saúde,6842,20,Baixo Risco,Não,1,0
+1098,Recursos Humanos,10482,20,Baixo Risco,Não,1,3
+1656,Diretor(a) de Pesquisa,13269,20,Baixo Risco,Não,1,1
+1265,Cientista de Pesquisa,2585,20,Baixo Risco,Não,3,0
+1115,Cientista de Pesquisa,2979,20,Baixo Risco,Não,4,0
+1096,Diretor(a) de Manufatura,10976,20,Baixo Risco,Não,2,1
+707,Executivo(a) de Vendas,4851,20,Baixo Risco,Não,2,1
+1267,Gerente,18213,20,Baixo Risco,Não,2,3
+379,Cientista de Pesquisa,3230,20,Baixo Risco,Não,3,1
+1114,Executivo(a) de Vendas,4302,20,Baixo Risco,Não,2,0
+581,Diretor(a) de Manufatura,10648,20,Baixo Risco,Não,2,0
+1869,Executivo(a) de Vendas,7314,20,Baixo Risco,Não,2,0
+385,Diretor(a) de Pesquisa,19144,20,Baixo Risco,Não,2,1
+809,Gerente,18430,15,Baixo Risco,Não,4,14
+125,Executivo(a) de Vendas,5010,15,Baixo Risco,Não,3,5
+1094,Técnico(a) de Laboratório,4621,15,Baixo Risco,Não,3,1
+1092,Representante de Saúde,10322,15,Baixo Risco,Não,4,11
+2068,Técnico(a) de Laboratório,4404,15,Baixo Risco,Não,3,1
+1881,Técnico(a) de Laboratório,4197,15,Baixo Risco,Não,3,0
+1712,Representante de Saúde,10748,15,Baixo Risco,Não,3,14
+1038,Gerente,19845,15,Baixo Risco,Não,4,6
+1852,Técnico(a) de Laboratório,3812,15,Baixo Risco,Não,4,3
+1615,Diretor(a) de Manufatura,4724,15,Baixo Risco,Não,4,7
+1177,Técnico(a) de Laboratório,4420,15,Baixo Risco,Não,4,0
+1035,Diretor(a) de Pesquisa,19973,15,Baixo Risco,Não,3,5
+476,Executivo(a) de Vendas,5296,15,Baixo Risco,Não,3,7
+806,Técnico(a) de Laboratório,3833,15,Baixo Risco,Não,3,0
+1597,Representante de Saúde,5063,15,Baixo Risco,Não,3,7
+13,Representante de Saúde,5237,15,Baixo Risco,Não,3,7
+1588,Executivo(a) de Vendas,8237,15,Baixo Risco,Não,3,7
+593,Técnico(a) de Laboratório,3894,15,Baixo Risco,Não,3,1
+117,Representante de Saúde,4152,15,Baixo Risco,Não,4,10
+1784,Executivo(a) de Vendas,5468,15,Baixo Risco,Não,4,5
+621,Executivo(a) de Vendas,5337,15,Baixo Risco,Não,4,5
+2056,Executivo(a) de Vendas,12031,15,Baixo Risco,Não,4,9
+601,Diretor(a) de Manufatura,13237,15,Baixo Risco,Não,3,5
+36,Representante de Saúde,10248,15,Baixo Risco,Não,4,5
+842,Executivo(a) de Vendas,5160,15,Baixo Risco,Não,4,7
+840,Executivo(a) de Vendas,7654,15,Baixo Risco,Não,4,7
+57,Técnico(a) de Laboratório,4011,15,Baixo Risco,Não,4,3
+2036,Executivo(a) de Vendas,5406,15,Baixo Risco,Não,4,11
+1537,Cientista de Pesquisa,4084,15,Baixo Risco,Não,3,7
+60,Executivo(a) de Vendas,4568,15,Baixo Risco,Não,3,8
+569,Gerente,17046,15,Baixo Risco,Não,3,15
+1127,Representante de Saúde,12169,15,Baixo Risco,Não,4,11
+1557,Executivo(a) de Vendas,6439,15,Baixo Risco,Não,3,7
+1866,Gerente,19392,15,Baixo Risco,Não,3,6
+76,Técnico(a) de Laboratório,5915,15,Baixo Risco,Não,4,1
+83,Representante de Saúde,10096,15,Baixo Risco,Não,3,12
+1696,Técnico(a) de Laboratório,3986,15,Baixo Risco,Não,4,4
+577,Técnico(a) de Laboratório,4230,15,Baixo Risco,Não,3,4
+1073,Diretor(a) de Manufatura,8858,15,Baixo Risco,Não,4,7
+830,Diretor(a) de Manufatura,6162,15,Baixo Risco,Não,3,6
+600,Executivo(a) de Vendas,4717,15,Baixo Risco,Não,3,6
+1708,Executivo(a) de Vendas,9241,15,Baixo Risco,Não,3,8
+1716,Executivo(a) de Vendas,12936,15,Baixo Risco,Não,3,14
+595,Executivo(a) de Vendas,4051,15,Baixo Risco,Não,4,6
+602,Técnico(a) de Laboratório,3755,15,Baixo Risco,Não,3,0
+58,Diretor(a) de Pesquisa,19545,15,Baixo Risco,Não,3,15
+1440,Técnico(a) de Laboratório,3500,15,Baixo Risco,Não,3,1
+1916,Técnico(a) de Laboratório,3978,15,Baixo Risco,Não,3,2
+253,Gerente,19033,15,Baixo Risco,Não,3,9
+264,Gerente,16792,15,Baixo Risco,Não,4,11
+1666,Diretor(a) de Pesquisa,17603,15,Baixo Risco,Não,3,6
+1358,Técnico(a) de Laboratório,3669,15,Baixo Risco,Não,4,1
+731,Gerente,19141,15,Baixo Risco,Não,4,12
+259,Gerente,19999,15,Baixo Risco,Não,3,11
+691,Cientista de Pesquisa,6646,15,Baixo Risco,Não,4,11
+416,Executivo(a) de Vendas,6929,15,Baixo Risco,Não,4,7
+744,Técnico(a) de Laboratório,3708,15,Baixo Risco,Não,3,1
+1346,Cientista de Pesquisa,4661,15,Baixo Risco,Não,4,8
+249,Técnico(a) de Laboratório,3690,15,Baixo Risco,Não,3,0
+689,Diretor(a) de Manufatura,9434,15,Baixo Risco,Não,3,7
+1375,Representante de Saúde,6377,15,Baixo Risco,Não,3,11
+747,Executivo(a) de Vendas,5304,15,Baixo Risco,Não,4,7
+1453,Executivo(a) de Vendas,10793,15,Baixo Risco,Não,4,9
+228,Executivo(a) de Vendas,9419,15,Baixo Risco,Não,4,7
+442,Diretor(a) de Manufatura,8943,15,Baixo Risco,Não,3,8
+1993,Representante de Saúde,8633,15,Baixo Risco,Não,3,12
+970,Executivo(a) de Vendas,10609,15,Baixo Risco,Não,3,11
+1628,Diretor(a) de Manufatura,10435,15,Baixo Risco,Não,3,14
+1309,Técnico(a) de Laboratório,4883,15,Baixo Risco,Não,3,1
+1283,Diretor(a) de Manufatura,10512,15,Baixo Risco,Não,4,5
+361,Executivo(a) de Vendas,5249,15,Baixo Risco,Não,4,7
+1293,Executivo(a) de Vendas,10231,15,Baixo Risco,Não,4,15
+343,Representante de Saúde,10938,15,Baixo Risco,Não,3,11
+721,Representante de Saúde,4553,15,Baixo Risco,Não,3,11
+319,Gerente,19232,15,Baixo Risco,Não,4,11
+727,Diretor(a) de Pesquisa,11159,15,Baixo Risco,Não,4,7
+982,Executivo(a) de Vendas,7264,15,Baixo Risco,Não,3,7
+1336,Gerente,19187,15,Baixo Risco,Não,3,9
+307,Executivo(a) de Vendas,10609,15,Baixo Risco,Não,3,5
+981,Gerente,14852,15,Baixo Risco,Não,3,15
+387,Executivo(a) de Vendas,4907,15,Baixo Risco,Não,3,11
+302,Executivo(a) de Vendas,8865,15,Baixo Risco,Não,4,12
+976,Gerente,17099,15,Baixo Risco,Não,4,7
+292,Diretor(a) de Manufatura,8474,15,Baixo Risco,Não,3,5
+291,Executivo(a) de Vendas,10400,15,Baixo Risco,Não,4,9
+444,Gerente,19272,15,Baixo Risco,Não,4,13
+1997,Diretor(a) de Manufatura,5321,15,Baixo Risco,Não,3,7
+592,Executivo(a) de Vendas,9980,15,Baixo Risco,Não,4,9
+783,Representante de Vendas,6632,15,Baixo Risco,Não,3,3
+162,Diretor(a) de Pesquisa,19537,15,Baixo Risco,Não,3,15
+455,Técnico(a) de Laboratório,3983,15,Baixo Risco,Não,4,2
+1435,Técnico(a) de Laboratório,5810,15,Baixo Risco,Não,4,1
+165,Representante de Saúde,10312,15,Baixo Risco,Não,4,15
+1443,Diretor(a) de Pesquisa,17169,15,Baixo Risco,Não,3,5
+452,Cientista de Pesquisa,3697,15,Baixo Risco,Não,4,9
+653,Executivo(a) de Vendas,5460,15,Baixo Risco,Não,4,5
+182,Executivo(a) de Vendas,5902,15,Baixo Risco,Não,3,5
+1026,Diretor(a) de Manufatura,12742,15,Baixo Risco,Não,4,11
+652,Técnico(a) de Laboratório,3681,15,Baixo Risco,Não,4,0
+1422,Diretor(a) de Pesquisa,17328,15,Baixo Risco,Não,4,12
+367,Representante de Saúde,5582,15,Baixo Risco,Não,4,7
+1849,Executivo(a) de Vendas,5675,15,Baixo Risco,Não,4,7
+1411,Técnico(a) de Laboratório,3629,15,Baixo Risco,Não,3,0
+1449,Técnico(a) de Laboratório,3975,15,Baixo Risco,Não,3,0
+1782,Técnico(a) de Laboratório,3702,15,Baixo Risco,Não,3,0
+1225,Cientista de Pesquisa,4541,15,Baixo Risco,Não,4,13
+2016,Executivo(a) de Vendas,10422,15,Baixo Risco,Não,4,5
+1845,Executivo(a) de Vendas,5154,15,Baixo Risco,Não,3,5
+1028,Técnico(a) de Laboratório,3917,15,Baixo Risco,Não,4,1
+772,Técnico(a) de Laboratório,5309,15,Baixo Risco,Não,4,4
+1966,Diretor(a) de Manufatura,9679,10,Baixo Risco,Não,4,0
+1746,Recursos Humanos,2145,10,Baixo Risco,Não,4,2
+1969,Cientista de Pesquisa,2897,10,Baixo Risco,Não,3,2
+1751,Cientista de Pesquisa,3445,10,Baixo Risco,Não,4,1
+2045,Executivo(a) de Vendas,6652,10,Baixo Risco,Não,4,0
+1729,Cientista de Pesquisa,2862,10,Baixo Risco,Não,4,0
+2070,Diretor(a) de Pesquisa,18550,10,Baixo Risco,Não,4,0
+2048,Cientista de Pesquisa,2809,10,Baixo Risco,Não,3,2
+1747,Recursos Humanos,2180,10,Baixo Risco,Não,4,1
+1799,Cientista de Pesquisa,2044,10,Baixo Risco,Não,4,0
+2007,Cientista de Pesquisa,3375,10,Baixo Risco,Não,3,1
+1648,Cientista de Pesquisa,2580,10,Baixo Risco,Não,4,1
+1947,Cientista de Pesquisa,2144,10,Baixo Risco,Não,3,1
+1761,Executivo(a) de Vendas,8161,10,Baixo Risco,Não,3,0
+1697,Representante de Saúde,10883,10,Baixo Risco,Não,4,0
+2051,Cientista de Pesquisa,2001,10,Baixo Risco,Não,3,0
+2052,Cientista de Pesquisa,2977,10,Baixo Risco,Não,4,1
+1853,Executivo(a) de Vendas,4648,10,Baixo Risco,Não,4,0
+1873,Cientista de Pesquisa,2662,10,Baixo Risco,Não,4,0
+1720,Cientista de Pesquisa,3433,10,Baixo Risco,Não,3,1
+1854,Cientista de Pesquisa,2936,10,Baixo Risco,Não,3,3
+1858,Recursos Humanos,2706,10,Baixo Risco,Não,4,2
+1623,Cientista de Pesquisa,3117,10,Baixo Risco,Não,4,2
+1625,Gerente,19658,10,Baixo Risco,Não,3,1
+1813,Cientista de Pesquisa,2438,10,Baixo Risco,Não,3,1
+1607,Cientista de Pesquisa,3312,10,Baixo Risco,Não,4,0
+1677,Gerente,15379,10,Baixo Risco,Não,3,0
+2071,Executivo(a) de Vendas,8800,10,Baixo Risco,Não,3,0
+1592,Cientista de Pesquisa,2073,10,Baixo Risco,Não,3,2
+487,Diretor(a) de Manufatura,5258,10,Baixo Risco,Não,3,0
+300,Cientista de Pesquisa,2058,10,Baixo Risco,Não,3,1
+479,Executivo(a) de Vendas,6653,10,Baixo Risco,Não,4,0
+838,Cientista de Pesquisa,2553,10,Baixo Risco,Não,4,1
+826,Cientista de Pesquisa,2506,10,Baixo Risco,Não,3,2
+271,Diretor(a) de Manufatura,6553,10,Baixo Risco,Não,3,0
+1162,Cientista de Pesquisa,2539,10,Baixo Risco,Não,3,2
+824,Cientista de Pesquisa,2700,10,Baixo Risco,Não,3,0
+262,Cientista de Pesquisa,2089,10,Baixo Risco,Não,4,2
+242,Cientista de Pesquisa,2500,10,Baixo Risco,Não,4,0
+231,Cientista de Pesquisa,3038,10,Baixo Risco,Não,3,1
+227,Cientista de Pesquisa,2451,10,Baixo Risco,Não,3,1
+1259,Cientista de Pesquisa,2517,10,Baixo Risco,Não,3,0
+221,Cientista de Pesquisa,2713,10,Baixo Risco,Não,4,0
+217,Cientista de Pesquisa,2323,10,Baixo Risco,Não,4,2
+495,Cientista de Pesquisa,2201,10,Baixo Risco,Não,4,1
+211,Diretor(a) de Manufatura,6132,10,Baixo Risco,Não,3,0
+1238,Cientista de Pesquisa,2781,10,Baixo Risco,Não,4,4
+797,Cientista de Pesquisa,3280,10,Baixo Risco,Não,4,1
+499,Representante de Saúde,10965,10,Baixo Risco,Não,3,0
+194,Cientista de Pesquisa,2632,10,Baixo Risco,Não,3,0
+192,Cientista de Pesquisa,3452,10,Baixo Risco,Não,4,0
+501,Cientista de Pesquisa,2543,10,Baixo Risco,Não,3,2
+477,Representante de Saúde,6781,10,Baixo Risco,Não,4,0
+1120,Cientista de Pesquisa,2514,10,Baixo Risco,Não,4,1
+473,Gerente,12504,10,Baixo Risco,Não,3,0
+468,Diretor(a) de Pesquisa,15992,10,Baixo Risco,Não,4,0
+395,Cientista de Pesquisa,3310,10,Baixo Risco,Não,4,0
+947,Executivo(a) de Vendas,6932,10,Baixo Risco,Não,3,0
+995,Cientista de Pesquisa,3452,10,Baixo Risco,Não,4,0
+377,Cientista de Pesquisa,2070,10,Baixo Risco,Não,4,0
+930,Cientista de Pesquisa,2377,10,Baixo Risco,Não,3,2
+1006,Cientista de Pesquisa,2684,10,Baixo Risco,Não,3,0
+346,Cientista de Pesquisa,2340,10,Baixo Risco,Não,4,1
+342,Diretor(a) de Manufatura,10048,10,Baixo Risco,Não,3,0
+338,Cientista de Pesquisa,2911,10,Baixo Risco,Não,4,0
+1029,Gerente,18303,10,Baixo Risco,Não,3,0
+868,Executivo(a) de Vendas,6334,10,Baixo Risco,Não,3,0
+335,Cientista de Pesquisa,3319,10,Baixo Risco,Não,4,4
+867,Diretor(a) de Manufatura,13826,10,Baixo Risco,Não,4,0
+1060,Cientista de Pesquisa,2821,10,Baixo Risco,Não,3,2
+1068,Cientista de Pesquisa,2007,10,Baixo Risco,Não,3,1
+618,Executivo(a) de Vendas,4306,10,Baixo Risco,Não,3,0
+1071,Cientista de Pesquisa,2942,10,Baixo Risco,Não,3,0
+1076,Executivo(a) de Vendas,10798,10,Baixo Risco,Não,4,0
+1085,Cientista de Pesquisa,3376,10,Baixo Risco,Não,3,0
+465,Cientista de Pesquisa,2904,10,Baixo Risco,Não,4,0
+321,Recursos Humanos,2267,10,Baixo Risco,Não,3,2
+1256,Gerente,18711,10,Baixo Risco,Não,3,0
+975,Executivo(a) de Vendas,4601,10,Baixo Risco,Não,3,1
+1263,Diretor(a) de Pesquisa,18265,10,Baixo Risco,Não,4,0
+568,Gerente,14118,10,Baixo Risco,Não,4,0
+1382,Cientista de Pesquisa,2610,10,Baixo Risco,Não,3,0
+46,Cientista de Pesquisa,2645,10,Baixo Risco,Não,3,1
+720,Executivo(a) de Vendas,4577,10,Baixo Risco,Não,3,2
+715,Cientista de Pesquisa,4680,10,Baixo Risco,Não,4,0
+710,Cientista de Pesquisa,2720,10,Baixo Risco,Não,4,2
+560,Cientista de Pesquisa,2886,10,Baixo Risco,Não,4,0
+700,Cientista de Pesquisa,2045,10,Baixo Risco,Não,4,1
+655,Cientista de Pesquisa,2187,10,Baixo Risco,Não,3,0
+1516,Gerente,11244,10,Baixo Risco,Não,4,0
+1371,Executivo(a) de Vendas,5071,10,Baixo Risco,Não,4,0
+1499,Recursos Humanos,2064,10,Baixo Risco,Não,3,1
+1424,Diretor(a) de Pesquisa,14732,10,Baixo Risco,Não,4,0
+1438,Cientista de Pesquisa,3420,10,Baixo Risco,Não,4,1
+106,Executivo(a) de Vendas,10239,10,Baixo Risco,Não,4,1
+587,Representante de Saúde,9824,10,Baixo Risco,Não,3,0
+105,Cientista de Pesquisa,2859,10,Baixo Risco,Não,3,0
+1467,Recursos Humanos,2742,10,Baixo Risco,Não,3,2
+1481,Executivo(a) de Vendas,4768,10,Baixo Risco,Não,3,0
+675,Cientista de Pesquisa,2773,10,Baixo Risco,Não,3,2
+1546,Cientista de Pesquisa,2132,10,Baixo Risco,Não,4,0
+139,Representante de Saúde,5163,10,Baixo Risco,Não,4,0
+634,Representante de Saúde,9824,10,Baixo Risco,Não,3,0
+1270,Cientista de Pesquisa,1223,10,Baixo Risco,Não,3,0
+1585,Executivo(a) de Vendas,6815,10,Baixo Risco,Não,3,0
+159,Cientista de Pesquisa,2613,10,Baixo Risco,Não,3,0
+544,Cientista de Pesquisa,2654,10,Baixo Risco,Não,4,0
+16,Cientista de Pesquisa,2911,10,Baixo Risco,Não,3,4
+1308,Cientista de Pesquisa,2372,10,Baixo Risco,Não,3,2
+1474,Cientista de Pesquisa,2345,10,Baixo Risco,Não,3,1
+143,Cientista de Pesquisa,2889,10,Baixo Risco,Não,4,2
+1340,Cientista de Pesquisa,3544,10,Baixo Risco,Não,3,0
+439,Cientista de Pesquisa,5055,0,Baixo Risco,Não,4,0
+456,Executivo(a) de Vendas,6118,0,Baixo Risco,Não,3,1
+438,Executivo(a) de Vendas,7547,0,Baixo Risco,Não,4,1
+447,Diretor(a) de Pesquisa,18300,0,Baixo Risco,Não,3,1
+460,Diretor(a) de Manufatura,6347,0,Baixo Risco,Não,4,0
+612,Diretor(a) de Pesquisa,16184,0,Baixo Risco,Não,3,0
+450,Cientista de Pesquisa,4869,0,Baixo Risco,Não,3,0
+599,Executivo(a) de Vendas,6230,0,Baixo Risco,Não,4,1
+441,Cientista de Pesquisa,5775,0,Baixo Risco,Não,4,1
+420,Executivo(a) de Vendas,5484,0,Baixo Risco,Não,3,4
+1940,Cientista de Pesquisa,4771,0,Baixo Risco,Não,4,0
+613,Gerente,11557,0,Baixo Risco,Não,4,0
+446,Executivo(a) de Vendas,4682,0,Baixo Risco,Não,4,0
+611,Diretor(a) de Manufatura,4262,0,Baixo Risco,Não,4,1
+469,Executivo(a) de Vendas,4649,0,Baixo Risco,Não,3,0
+575,Diretor(a) de Pesquisa,17861,0,Baixo Risco,Não,3,0
+491,Representante de Saúde,10496,0,Baixo Risco,Não,4,1
+1888,Diretor(a) de Manufatura,5906,0,Baixo Risco,Não,4,3
+1890,Recursos Humanos,3886,0,Baixo Risco,Não,4,0
+500,Executivo(a) de Vendas,4936,0,Baixo Risco,Não,4,0
+533,Executivo(a) de Vendas,6577,0,Baixo Risco,Não,3,4
+1898,Executivo(a) de Vendas,6500,0,Baixo Risco,Não,3,0
+1900,Gerente,17174,0,Baixo Risco,Não,4,4
+1941,Diretor(a) de Pesquisa,19161,0,Baixo Risco,Não,4,4
+546,Gerente,16555,0,Baixo Risco,Não,4,1
+547,Cientista de Pesquisa,4556,0,Baixo Risco,Não,3,0
+548,Diretor(a) de Manufatura,6091,0,Baixo Risco,Não,4,0
+550,Diretor(a) de Manufatura,4810,0,Baixo Risco,Não,3,0
+1929,Executivo(a) de Vendas,5736,0,Baixo Risco,Não,3,1
+551,Representante de Saúde,4523,0,Baixo Risco,Não,4,0
+482,Representante de Saúde,6755,0,Baixo Risco,Não,3,1
+558,Gerente,18041,0,Baixo Risco,Não,3,1
+1871,Cientista de Pesquisa,3902,0,Baixo Risco,Não,4,2
+481,Executivo(a) de Vendas,9699,0,Baixo Risco,Não,4,1
+564,Diretor(a) de Pesquisa,11935,0,Baixo Risco,Não,3,0
+574,Diretor(a) de Manufatura,5070,0,Baixo Risco,Não,4,0
+523,Executivo(a) de Vendas,6538,0,Baixo Risco,Não,3,1
+1922,Representante de Saúde,5399,0,Baixo Risco,Não,3,0
+1924,Executivo(a) de Vendas,5487,0,Baixo Risco,Não,3,0
+498,Executivo(a) de Vendas,5253,0,Baixo Risco,Não,4,0
+1971,Representante de Saúde,7510,0,Baixo Risco,Não,3,0
+417,Representante de Saúde,9613,0,Baixo Risco,Não,4,3
+154,Executivo(a) de Vendas,9738,0,Baixo Risco,Não,4,2
+131,Executivo(a) de Vendas,13872,0,Baixo Risco,Não,3,1
+138,Cientista de Pesquisa,4809,0,Baixo Risco,Não,3,2
+140,Gerente,18844,0,Baixo Risco,Não,4,2
+2035,Executivo(a) de Vendas,6712,0,Baixo Risco,Não,3,1
+152,Executivo(a) de Vendas,7428,0,Baixo Risco,Não,4,1
+2031,Gerente,18880,0,Baixo Risco,Não,3,4
+2026,Representante de Saúde,6306,0,Baixo Risco,Não,3,1
+2015,Diretor(a) de Pesquisa,13206,0,Baixo Risco,Não,3,1
+2024,Executivo(a) de Vendas,7644,0,Baixo Risco,Não,4,3
+171,Cientista de Pesquisa,4739,0,Baixo Risco,Não,3,1
+2022,Gerente,19431,0,Baixo Risco,Não,4,1
+174,Executivo(a) de Vendas,9208,0,Baixo Risco,Não,4,2
+179,Diretor(a) de Manufatura,10650,0,Baixo Risco,Não,4,0
+183,Executivo(a) de Vendas,8639,0,Baixo Risco,Não,3,2
+2041,Executivo(a) de Vendas,5343,0,Baixo Risco,Não,4,1
+2044,Executivo(a) de Vendas,6728,0,Baixo Risco,Não,3,0
+129,Executivo(a) de Vendas,4221,0,Baixo Risco,Não,3,0
+2046,Executivo(a) de Vendas,4850,0,Baixo Risco,Não,3,0
+128,Executivo(a) de Vendas,4999,0,Baixo Risco,Não,3,0
+126,Diretor(a) de Pesquisa,13549,0,Baixo Risco,Não,3,0
+118,Executivo(a) de Vendas,9619,0,Baixo Risco,Não,4,4
+112,Diretor(a) de Manufatura,7260,0,Baixo Risco,Não,4,0
+102,Diretor(a) de Pesquisa,13664,0,Baixo Risco,Não,3,0
+98,Diretor(a) de Manufatura,4424,0,Baixo Risco,Não,4,1
+91,Executivo(a) de Vendas,5473,0,Baixo Risco,Não,3,1
+77,Diretor(a) de Manufatura,5993,0,Baixo Risco,Não,3,0
+56,Executivo(a) de Vendas,8726,0,Baixo Risco,Não,3,1
+32,Gerente,19094,0,Baixo Risco,Não,3,4
+26,Diretor(a) de Manufatura,4011,0,Baixo Risco,Não,3,1
+23,Gerente,15427,0,Baixo Risco,Não,4,3
+12,Diretor(a) de Manufatura,9526,0,Baixo Risco,Não,3,1
+195,Executivo(a) de Vendas,4668,0,Baixo Risco,Não,4,0
+2014,Cientista de Pesquisa,4108,0,Baixo Risco,Não,4,1
+393,Representante de Saúde,5745,0,Baixo Risco,Não,4,1
+349,Executivo(a) de Vendas,6931,0,Baixo Risco,Não,4,0
+333,Executivo(a) de Vendas,4465,0,Baixo Risco,Não,4,2
+1970,Representante de Saúde,5968,0,Baixo Risco,Não,3,2
+336,Gerente,19202,0,Baixo Risco,Não,4,1
+337,Diretor(a) de Pesquisa,13675,0,Baixo Risco,Não,3,2
+1965,Executivo(a) de Vendas,4105,0,Baixo Risco,Não,4,0
+341,Diretor(a) de Manufatura,6434,0,Baixo Risco,Não,3,0
+1955,Representante de Saúde,6667,0,Baixo Risco,Não,4,1
+207,Executivo(a) de Vendas,8998,0,Baixo Risco,Não,4,3
+350,Diretor(a) de Manufatura,4898,0,Baixo Risco,Não,3,1
+352,Diretor(a) de Pesquisa,19436,0,Baixo Risco,Não,3,3
+1951,Executivo(a) de Vendas,8628,0,Baixo Risco,Não,3,1
+1950,Executivo(a) de Vendas,9888,0,Baixo Risco,Não,4,2
+378,Executivo(a) de Vendas,6502,0,Baixo Risco,Não,4,0
+388,Executivo(a) de Vendas,4554,0,Baixo Risco,Não,4,0
+323,Gerente,19517,0,Baixo Risco,Não,4,0
+314,Executivo(a) de Vendas,8789,0,Baixo Risco,Não,3,0
+1976,Cientista de Pesquisa,4332,0,Baixo Risco,Não,3,3
+1979,Diretor(a) de Pesquisa,11031,0,Baixo Risco,Não,3,4
+312,Executivo(a) de Vendas,7918,0,Baixo Risco,Não,4,4
+1981,Representante de Saúde,4617,0,Baixo Risco,Não,3,1
+308,Diretor(a) de Manufatura,4345,0,Baixo Risco,Não,3,1
+293,Executivo(a) de Vendas,9981,0,Baixo Risco,Não,3,0
+287,Representante de Saúde,4876,0,Baixo Risco,Não,4,0
+283,Executivo(a) de Vendas,7639,0,Baixo Risco,Não,4,1
+273,Diretor(a) de Manufatura,6261,0,Baixo Risco,Não,4,1
+270,Diretor(a) de Manufatura,5265,0,Baixo Risco,Não,3,0
+256,Diretor(a) de Manufatura,9547,0,Baixo Risco,Não,3,1
+230,Executivo(a) de Vendas,8686,0,Baixo Risco,Não,4,0
+2008,Cientista de Pesquisa,5098,0,Baixo Risco,Não,3,0
+215,Executivo(a) de Vendas,10855,0,Baixo Risco,Não,4,2
+208,Diretor(a) de Manufatura,4319,0,Baixo Risco,Não,3,0
+1859,Representante de Saúde,6384,0,Baixo Risco,Não,3,1
+1823,Executivo(a) de Vendas,6799,0,Baixo Risco,Não,3,4
+1857,Diretor(a) de Manufatura,8578,0,Baixo Risco,Não,4,4
+1164,Recursos Humanos,4323,0,Baixo Risco,Não,3,1
+1179,Executivo(a) de Vendas,6578,0,Baixo Risco,Não,3,1
+1682,Representante de Saúde,5347,0,Baixo Risco,Não,3,0
+1188,Executivo(a) de Vendas,5346,0,Baixo Risco,Não,3,1
+1196,Diretor(a) de Manufatura,6474,0,Baixo Risco,Não,4,3
+1201,Gerente,18606,0,Baixo Risco,Não,3,4
+1207,Recursos Humanos,3600,0,Baixo Risco,Não,3,1
+1220,Executivo(a) de Vendas,4539,0,Baixo Risco,Não,3,0
+1228,Diretor(a) de Manufatura,7379,0,Baixo Risco,Não,4,1
+1673,Executivo(a) de Vendas,5476,0,Baixo Risco,Não,4,0
+1240,Executivo(a) de Vendas,4950,0,Baixo Risco,Não,4,1
+1670,Executivo(a) de Vendas,5505,0,Baixo Risco,Não,4,0
+1245,Diretor(a) de Manufatura,10502,0,Baixo Risco,Não,3,1
+1668,Cientista de Pesquisa,4735,0,Baixo Risco,Não,4,2
+1249,Cientista de Pesquisa,3760,0,Baixo Risco,Não,4,1
+1250,Diretor(a) de Pesquisa,17779,0,Baixo Risco,Não,4,0
+1166,Diretor(a) de Pesquisa,13499,0,Baixo Risco,Não,3,2
+1689,Representante de Saúde,7005,0,Baixo Risco,Não,4,1
+1254,Executivo(a) de Vendas,5171,0,Baixo Risco,Não,4,0
+1163,Executivo(a) de Vendas,5714,0,Baixo Risco,Não,3,1
+1088,Representante de Saúde,8823,0,Baixo Risco,Não,3,1
+1097,Cientista de Pesquisa,3660,0,Baixo Risco,Não,3,1
+1099,Representante de Saúde,7119,0,Baixo Risco,Não,4,1
+1101,Cientista de Pesquisa,4508,0,Baixo Risco,Não,3,3
+1707,Cientista de Pesquisa,4401,0,Baixo Risco,Não,3,0
+1103,Representante de Saúde,7756,0,Baixo Risco,Não,4,0
+1116,Gerente,16885,0,Baixo Risco,Não,4,2
+1117,Executivo(a) de Vendas,5593,0,Baixo Risco,Não,3,4
+1124,Gerente,17465,0,Baixo Risco,Não,3,4
+1700,Executivo(a) de Vendas,9525,0,Baixo Risco,Não,4,1
+1128,Diretor(a) de Pesquisa,19626,0,Baixo Risco,Não,3,4
+1133,Diretor(a) de Manufatura,7779,0,Baixo Risco,Não,4,0
+1137,Executivo(a) de Vendas,4968,0,Baixo Risco,Não,4,0
+1140,Diretor(a) de Manufatura,4033,0,Baixo Risco,Não,3,0
+1161,Representante de Saúde,5731,0,Baixo Risco,Não,4,1
+1665,Gerente,17426,0,Baixo Risco,Não,3,4
+1662,Diretor(a) de Manufatura,4374,0,Baixo Risco,Não,3,1
+620,Executivo(a) de Vendas,4859,0,Baixo Risco,Não,3,0
+1397,Representante de Saúde,10920,0,Baixo Risco,Não,3,0
+1407,Cientista de Pesquisa,3904,0,Baixo Risco,Não,4,1
+1412,Diretor(a) de Manufatura,9362,0,Baixo Risco,Não,4,2
+1446,Executivo(a) de Vendas,9204,0,Baixo Risco,Não,4,0
+1457,Executivo(a) de Vendas,10096,0,Baixo Risco,Não,4,4
+1473,Representante de Saúde,6651,0,Baixo Risco,Não,3,1
+1479,Executivo(a) de Vendas,5301,0,Baixo Risco,Não,3,2
+1483,Cientista de Pesquisa,4900,0,Baixo Risco,Não,3,2
+1497,Executivo(a) de Vendas,8620,0,Baixo Risco,Não,3,0
+1520,Gerente,16032,0,Baixo Risco,Não,4,1
+1543,Cientista de Pesquisa,4285,0,Baixo Risco,Não,4,3
+1563,Recursos Humanos,6077,0,Baixo Risco,Não,3,1
+1572,Diretor(a) de Manufatura,10169,0,Baixo Risco,Não,4,1
+1578,Gerente,19586,0,Baixo Risco,Não,4,2
+1580,Cientista de Pesquisa,5484,0,Baixo Risco,Não,4,2
+1590,Representante de Saúde,8853,0,Baixo Risco,Não,4,1
+1399,Executivo(a) de Vendas,6232,0,Baixo Risco,Não,3,1
+1395,Executivo(a) de Vendas,9998,0,Baixo Risco,Não,4,1
+1255,Diretor(a) de Pesquisa,19740,0,Baixo Risco,Não,4,0
+1630,Representante de Saúde,4148,0,Baixo Risco,Não,3,2
+1264,Diretor(a) de Pesquisa,16124,0,Baixo Risco,Não,4,1
+1295,Representante de Saúde,7978,0,Baixo Risco,Não,4,0
+1653,Diretor(a) de Manufatura,5206,0,Baixo Risco,Não,3,0
+1304,Executivo(a) de Vendas,6209,0,Baixo Risco,Não,4,0
+1650,Executivo(a) de Vendas,5869,0,Baixo Risco,Não,3,1
+1312,Representante de Saúde,7094,0,Baixo Risco,Não,3,1
+1647,Cientista de Pesquisa,3517,0,Baixo Risco,Não,3,0
+1322,Diretor(a) de Manufatura,4534,0,Baixo Risco,Não,3,1
+1644,Gerente,15202,0,Baixo Risco,Não,4,2
+1344,Representante de Saúde,8500,0,Baixo Risco,Não,4,1
+1363,Diretor(a) de Manufatura,7898,0,Baixo Risco,Não,4,0
+1383,Representante de Saúde,6687,0,Baixo Risco,Não,4,4
+1635,Diretor(a) de Manufatura,5770,0,Baixo Risco,Não,4,3
+1633,Diretor(a) de Manufatura,5042,0,Baixo Risco,Não,3,3
+1631,Diretor(a) de Manufatura,5768,0,Baixo Risco,Não,3,0
+1069,Diretor(a) de Pesquisa,19627,0,Baixo Risco,Não,4,2
+1047,Executivo(a) de Vendas,9725,0,Baixo Risco,Não,4,0
+1045,Gerente,17650,0,Baixo Risco,Não,4,1
+1816,Diretor(a) de Manufatura,9667,0,Baixo Risco,Não,3,0
+757,Representante de Saúde,6142,0,Baixo Risco,Não,3,4
+762,Representante de Saúde,11103,0,Baixo Risco,Não,4,1
+1812,Executivo(a) de Vendas,4127,0,Baixo Risco,Não,4,2
+781,Executivo(a) de Vendas,6180,0,Baixo Risco,Não,4,1
+784,Cientista de Pesquisa,3505,0,Baixo Risco,Não,3,0
+786,Executivo(a) de Vendas,6274,0,Baixo Risco,Não,4,1
+1804,Diretor(a) de Manufatura,5762,0,Baixo Risco,Não,4,1
+791,Cientista de Pesquisa,4258,0,Baixo Risco,Não,4,1
+793,Representante de Saúde,4335,0,Baixo Risco,Não,3,1
+1800,Diretor(a) de Pesquisa,13464,0,Baixo Risco,Não,3,2
+800,Executivo(a) de Vendas,4342,0,Baixo Risco,Não,4,1
+815,Diretor(a) de Pesquisa,17639,0,Baixo Risco,Não,3,0
+817,Diretor(a) de Pesquisa,11691,0,Baixo Risco,Não,3,3
+828,Cientista de Pesquisa,4382,0,Baixo Risco,Não,3,2
+845,Diretor(a) de Manufatura,10221,0,Baixo Risco,Não,3,1
+754,Executivo(a) de Vendas,6804,0,Baixo Risco,Não,4,2
+734,Gerente,19189,0,Baixo Risco,Não,3,2
+1040,Executivo(a) de Vendas,6347,0,Baixo Risco,Não,3,0
+730,Diretor(a) de Pesquisa,14814,0,Baixo Risco,Não,3,1
+623,Diretor(a) de Manufatura,7491,0,Baixo Risco,Não,4,1
+624,Representante de Saúde,10527,0,Baixo Risco,Não,3,1
+631,Executivo(a) de Vendas,4707,0,Baixo Risco,Não,3,1
+659,Representante de Saúde,4089,0,Baixo Risco,Não,4,2
+665,Recursos Humanos,5985,0,Baixo Risco,Não,3,0
+677,Executivo(a) de Vendas,7104,0,Baixo Risco,Não,3,1
+690,Executivo(a) de Vendas,5561,0,Baixo Risco,Não,3,1
+692,Representante de Saúde,7725,0,Baixo Risco,Não,4,4
+1836,Executivo(a) de Vendas,4684,0,Baixo Risco,Não,4,1
+709,Executivo(a) de Vendas,4028,0,Baixo Risco,Não,4,0
+1830,Cientista de Pesquisa,6854,0,Baixo Risco,Não,4,1
+722,Executivo(a) de Vendas,5396,0,Baixo Risco,Não,4,0
+724,Representante de Saúde,7625,0,Baixo Risco,Não,4,1
+1595,Gerente,19613,0,Baixo Risco,Não,4,0
+1822,Representante de Saúde,6513,0,Baixo Risco,Não,4,0
+1786,Gerente,13116,0,Baixo Risco,Não,3,2
+847,Recursos Humanos,3737,0,Baixo Risco,Não,4,0
+851,Gerente,16307,0,Baixo Risco,Não,3,4
+859,Executivo(a) de Vendas,4403,0,Baixo Risco,Não,4,0
+990,Executivo(a) de Vendas,5079,0,Baixo Risco,Não,4,0
+1749,Executivo(a) de Vendas,8346,0,Baixo Risco,Não,3,0
+997,Diretor(a) de Pesquisa,17399,0,Baixo Risco,Não,4,1
+999,Diretor(a) de Pesquisa,19419,0,Baixo Risco,Não,3,0
+1744,Recursos Humanos,9756,0,Baixo Risco,Não,3,0
+1739,Executivo(a) de Vendas,9610,0,Baixo Risco,Não,3,0
+1007,Diretor(a) de Manufatura,10845,0,Baixo Risco,Não,3,0
+1736,Diretor(a) de Manufatura,5238,0,Baixo Risco,Não,4,1
+1009,Diretor(a) de Manufatura,4377,0,Baixo Risco,Não,3,3
+1013,Diretor(a) de Manufatura,10739,0,Baixo Risco,Não,3,0
+1018,Diretor(a) de Manufatura,5472,0,Baixo Risco,Não,4,1
+1022,Representante de Saúde,4240,0,Baixo Risco,Não,3,2
+1025,Diretor(a) de Manufatura,5003,0,Baixo Risco,Não,3,2
+1027,Diretor(a) de Manufatura,4227,0,Baixo Risco,Não,4,2
+1728,Diretor(a) de Manufatura,6883,0,Baixo Risco,Não,3,0
+985,Executivo(a) de Vendas,7880,0,Baixo Risco,Não,3,0
+984,Executivo(a) de Vendas,7823,0,Baixo Risco,Não,4,0
+969,Representante de Saúde,6949,0,Baixo Risco,Não,4,1
+897,Executivo(a) de Vendas,11836,0,Baixo Risco,Não,4,2
+861,Cientista de Pesquisa,3761,0,Baixo Risco,Não,4,0
+1779,Executivo(a) de Vendas,6029,0,Baixo Risco,Não,4,2
+1778,Recursos Humanos,3539,0,Baixo Risco,Não,4,1
+865,Cientista de Pesquisa,5175,0,Baixo Risco,Não,3,1
+869,Recursos Humanos,4936,0,Baixo Risco,Não,4,0
+872,Diretor(a) de Manufatura,4775,0,Baixo Risco,Não,4,2
+901,Diretor(a) de Pesquisa,14275,0,Baixo Risco,Não,4,3
+949,Cientista de Pesquisa,4678,0,Baixo Risco,Não,4,0
+902,Representante de Saúde,5562,0,Baixo Risco,Não,4,2
+909,Recursos Humanos,5204,0,Baixo Risco,Não,4,0
+1763,Representante de Saúde,5294,0,Baixo Risco,Não,3,1
+916,Executivo(a) de Vendas,4908,0,Baixo Risco,Não,4,0
+936,Executivo(a) de Vendas,6244,0,Baixo Risco,Não,3,0
+1757,Executivo(a) de Vendas,4507,0,Baixo Risco,Não,4,0
+1024,Representante de Saúde,10999,0,Baixo Risco,Não,3,4
