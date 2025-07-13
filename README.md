@@ -38,7 +38,7 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 ├── 📂 python/
 |   ├── 📂 graficos/                             # Gráficos gerados pela análise exploratória            
 |   ├── 📂 insights/                             # Insights retirados da análise exploratória
-|   ├── 📂 notebooks/
+|   └── 📂 notebooks/
 |       ├── 1_analise_exploratoria.ipynb          # Notebook com a investigação completa e geração de gráficos
 |       └── 2_pipeline_automacao.ipynb            # Script enxuto do pipeline de automação
 |   
@@ -61,6 +61,52 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 ✅ **Gspread & oauth2client:** Conexão e automação com a API do Google Sheets.  
 ✅ **Power BI Desktop** — Para a criação do dashboard interativo final.  
 ✅ **Git & GitHub** (para versionamento e apresentação do projeto)
+
+---
+
+---
+
+## 🤖 Arquitetura da Solução
+
+O projeto foi estruturado como um pipeline de dados completo, desde a ingestão dos dados na nuvem até a entrega de um dashboard interativo para a tomada de decisão. O fluxo é o seguinte:
+
+```text
++--------------------------------+
+| 📄 Fonte de Dados (Input)      |
+|--------------------------------|
+|       Planilha Google          |
+|  (Aba: "dados_brutos")         |
++--------------------------------+
+                 |
+                 | (1. Leitura dos Dados)
+                 ▼
++--------------------------------+
+| 🐍 Processamento (Cérebro)     |
+|--------------------------------|
+|     Notebook Python            |
+|  - Limpeza e Tradução          |
+|  - Cálculo do Score de Risco   |
++--------------------------------+
+                 |
+                 | (2. Escrita dos Resultados)
+                 ▼
++--------------------------------+
+| 📈 Resultados (Output)         |
+|--------------------------------|
+|       Planilha Google          |
+| (Aba: "Resultados_Analisados") |
++--------------------------------+
+                 |
+                 | (3. Conexão e Visualização)
+                 ▼
++--------------------------------+
+| 📊 Visualização (Dashboard)    |
+|--------------------------------|
+|       Power BI                 |
+|  - Gráficos Interativos        |
+|  - Filtros e KPIs              |
++--------------------------------+
+```
 
 ---
 
