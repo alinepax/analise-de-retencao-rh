@@ -31,22 +31,25 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 /analise-de-retencao-rh/
 |
 ├── 📂 dados/
-|   ├── dados_completos_rh.csv                     # Dataset final com dados sintéticos adicionados
-|   ├── Base_de_Dados_RH_Automação.csv             # Base final usada na automação com 3 novos colaboradores (1473 linhas)
-|   └── WA_Fn-UseC_-HR-Employee-Attrition.csv      # Dataset original da IBM
+|   ├── dados_completos_rh.csv                   # Dataset final com dados sintéticos adicionados
+|   ├── Base_de_Dados_RH_Automação.csv           # Base final usada na automação com 3 novos colaboradores
+|   └── WA_Fn-UseC_-HR-Employee-Attrition.csv    # Dataset original da IBM
 |
 ├── 📂 python/
-|   ├── 📂 graficos/                               # Gráficos gerados pela análise exploratória            
-|   ├── 📂 insights/                               # Insights retirados da análise exploratória
-|   └── 📂 notebooks/
-|       ├── 1_analise_exploratoria.ipynb            # Notebook com a investigação completa e geração de gráficos
-|       └── 2_pipeline_automacao.ipynb              # Script enxuto do pipeline de automação
+|   ├── 📂 graficos/                             # Gráficos gerados pela análise exploratória            
+|   ├── 📂 insights/                             # Insights retirados da análise exploratória
+|   ├── 📂 notebooks/
+|   |   ├── 1_analise_exploratoria.ipynb          # Notebook com a investigação completa e geração de gráficos
+|   |   └── 2_pipeline_automacao.ipynb            # Script enxuto do pipeline de automação
+|   
 |
 ├── 📂 powerbi/
-|   └── dashboard_retencao.pbix                     # Arquivo do Power BI com o dashboard
+|   ├── dashboard_retencao.pbix                   # Arquivo do Power BI com o dashboard
+|   └── monitoramento_turnover.png                # Prévia do Dashboard feito no Power BI
 |
-├── .gitignore                                      # Arquivo para ignorar credenciais e pastas de cache
-└── README.md                                       # Documentação completa do projeto
+├── .gitignore                                    # Arquivo para ignorar credenciais e pastas de cache
+├── README.md                                     # Documentação completa do projeto
+└── requirements.txt                              # Dependências para rodar o notebook
 
 ```
 ---
