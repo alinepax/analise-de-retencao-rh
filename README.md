@@ -39,8 +39,8 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 |   ├── 📂 graficos/                             # Gráficos gerados pela análise exploratória            
 |   ├── 📂 insights/                             # Insights retirados da análise exploratória
 |   ├── 📂 notebooks/
-|   |   ├── 1_analise_exploratoria.ipynb          # Notebook com a investigação completa e geração de gráficos
-|   |   └── 2_pipeline_automacao.ipynb            # Script enxuto do pipeline de automação
+|       ├── 1_analise_exploratoria.ipynb          # Notebook com a investigação completa e geração de gráficos
+|       └── 2_pipeline_automacao.ipynb            # Script enxuto do pipeline de automação
 |   
 |
 ├── 📂 powerbi/
