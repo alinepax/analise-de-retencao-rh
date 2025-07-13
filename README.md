@@ -154,7 +154,7 @@ Para transformar a análise em uma ferramenta contínua, foi desenvolvido um pip
 
 Devido às políticas de licenciamento da Microsoft que exigem uma conta corporativa para a publicação pública de relatórios, apresento abaixo uma imagem do dashboard final. O arquivo `.pbix` interativo está disponível na pasta `powerbi/` para quem desejar explorar o modelo de dados e as interações.
 
-![Prévia do Dashboard no Power BI](powerbi/monitoramento_turnover.png)
+
 
 ---
 
