@@ -64,8 +64,6 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 
 ---
 
----
-
 ## 🤖 Arquitetura da Solução
 
 O projeto foi estruturado como um pipeline de dados completo, desde a ingestão dos dados na nuvem até a entrega de um dashboard interativo para a tomada de decisão. O fluxo é o seguinte:
