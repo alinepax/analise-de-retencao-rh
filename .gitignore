@@ -1,0 +1,17 @@
+meus-projetos-de-dados-7a664330fb60.json
+
+
+__pycache__/
+.ipynb_checkpoints/
+
+
+output_automacao/
+
+
+.env
+venv/
+.venv/
+
+
+.DS_Store
+Thumbs.db
