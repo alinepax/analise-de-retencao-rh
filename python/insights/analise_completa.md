@@ -224,6 +224,7 @@ Com base nos insights gerados, as seguintes ações estratégicas são recomenda
     * Desenvolver e comunicar de forma clara as trilhas de carreira e os critérios para promoção. O fato de "Anos desde a Última Promoção" ser um fator chave mostra que a percepção de estagnação é um problema real que precisa ser endereçado.
 * **4. Fortalecer o Departamento de RH:**
     * Analisar a capacidade e os recursos do departamento de Recursos Humanos. Para uma empresa deste porte, fortalecer a equipe de RH é um investimento estratégico para o sucesso de qualquer iniciativa de retenção de talentos.
-      
 
-***
+---
+
+[⬅️ Voltar para o README Principal](../../README.md)
