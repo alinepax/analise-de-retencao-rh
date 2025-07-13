@@ -14,13 +14,9 @@ Estas descobertas serviram como o alicerce para a construção da lógica de "Sc
 
 Análise dos histogramas de distribuição das variáveis numéricas do dataset.
 
-***
-
 ### 👤 Perfil da Equipe: Madura e Experiente
 * **Observação:** O gráfico de `Idade` mostra uma forte concentração de funcionários entre 30 e 40 anos, e o de `Anos de Carreira` tem seu pico em 10 anos.
 * **O que isso significa?** A sua força de trabalho é **madura e experiente**, não sendo composta majoritariamente por recém-formados. O pico de 10 anos de experiência é um momento crítico na carreira, ideal para focar em estratégias de retenção para este grupo.
-
-***
 
 ### 💰 A Estrutura Salarial: Uma Pirâmide Clássica
 * **Observação:** O histograma de `Salário Mensal` é muito inclinado, com a maioria dos colaboradores nas faixas mais baixas (abaixo de $5.000).
