@@ -2,7 +2,7 @@
 
 Análise dos histogramas de distribuição das variáveis numéricas do dataset.
 
-![Histogramas](../../graficos/histogramas_seaborn.png)
+![Histogramas](../graficos/histogramas_seaborn.png)
 
 ***
 
