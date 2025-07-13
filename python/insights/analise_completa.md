@@ -97,3 +97,135 @@ Análise do gráfico de barras que cruza o nível de satisfação no trabalho co
 ### ✨ A Barreira da "Super Satisfação"
 * **Observação:** A taxa de saída cai significativamente do nível 3 (16.5%) para o nível 4 (11.3%).
 * **O que isso significa?** Levar um funcionário de "satisfeito" para "muito satisfeito" cria uma **barreira de lealdade** real e mensurável. Investir em iniciativas que promovam um ambiente de trabalho excepcional pode ser uma estratégia de retenção tão importante quanto apenas "apagar incêndios" no grupo dos insatisfeitos.
+
+---
+
+## 💵 Boxplot: Salário vs. Saída 💵
+
+Análise da distribuição de salários para os grupos de colaboradores que ficaram e que saíram da empresa.
+
+![Boxplot Salário vs. Saída](../graficos/boxplot_salario_vs_saida.png)
+
+### 📉 A Diferença Crucial da Mediana
+* **Observação:** A linha do meio (mediana) do grupo "Saiu" está em um nível muito mais baixo (em torno de $3.000) do que a do grupo "Ficou" (próximo de $5.000).
+* **O que isso significa?** Metade de todos os funcionários que **saem** da empresa ganham menos que o funcionário mediano que **fica**. A baixa remuneração é um fator central e indiscutível na decisão de sair para a maioria.
+
+### 🚧 O "Teto Salarial" de Quem Sai
+* **Observação:** O topo da caixa do grupo "Saiu" (que representa 75% de quem saiu) mal alcança a linha mediana do grupo "Ficou".
+* **O que isso significa?** Cerca de **75% dos colaboradores que saem ganham menos do que o funcionário mediano que fica**. Isso mostra que há um "teto" claro: funcionários que não conseguem ultrapassar essa barreira salarial têm uma propensão muito maior a procurar outras oportunidades.
+
+### 💸 Dinheiro Não é Tudo (Para Todos)
+* **Observação:** Existem "outliers" (os pontinhos) com salários muito altos em ambos os grupos, inclusive no grupo "Saiu".
+* **O que isso significa?** Mesmo pessoas com salários altíssimos também deixam a empresa. Isso prova que, embora o salário seja um fator massivo para a maioria, para os funcionários de alto escalão ou com perfis específicos, outros motivos (falta de desafio, cultura da empresa, problemas com a gestão, etc.) pesam mais na decisão.
+
+---
+
+## 👥 Cargos: Onde Estão os Pontos Críticos? 👥
+
+Análise do gráfico de barras que detalha a saída de colaboradores (`Attrition`) para cada cargo na empresa.
+
+![Gráfico Saídas por Cargo](../graficos/barras_saidas_por_cargo.png)
+
+### 🔥 As "Zonas Quentes" do Turnover
+* **Observação:** Embora os números absolutos de saída sejam altos em vários cargos, a **taxa de saída** (proporção de quem sai em relação ao total do cargo) é alarmante em três áreas específicas: **Representante de Vendas (39.8%)**, **Técnico de Laboratório (23.9%)** e **Recursos Humanos (23.1%)**.
+* **O que isso significa?** A empresa tem um problema crônico de retenção em cargos de entrada ou de suporte operacional. O cargo de "Representante de Vendas" é uma "porta giratória", sugerindo possíveis problemas com metas, comissionamento ou alta competitividade. A alta saída de técnicos pode impactar diretamente a produtividade do P&D.
+
+### ⚓ O Núcleo Estável: A Liderança Permanece
+* **Observação:** Cargos de liderança e sênior, como **Diretor(a) de Pesquisa (2.5%)**, **Gerente (4.9%)** e **Diretor(a) de Manufatura (6.9%)**, possuem taxas de saída extremamente baixas.
+* **O que isso significa?** A empresa é **muito eficaz em reter sua liderança**. Isso é uma grande força, indicando que a satisfação e a compensação nos níveis mais altos são vistas como adequadas. O desafio da retenção não está no topo, mas na base da pirâmide organizacional.
+
+### 🔗 Conectando os Pontos: Cargo, Salário e Carreira
+* **Observação:** Os cargos com maior taxa de saída ("Representante de Vendas", "Técnico de Laboratório") são exatamente aqueles que, pela sua natureza, se encontram na base da pirâmide salarial que vimos no boxplot.
+* **O que isso significa?** Este gráfico **confirma a hipótese do salário e da carreira**. O *turnover* não é um problema geral e homogêneo, mas sim um problema concentrado em cargos de início de carreira ou com menor remuneração, onde a falta de um plano de progressão claro e um salário competitivo se torna um fator decisivo para a saída.
+
+---
+
+## 💰 Análise Salarial Detalhada por Cargo 💰
+
+Insights do grid de boxplots que compara a distribuição salarial entre quem 'Ficou' e quem 'Saiu' para cada cargo específico.
+
+![Catplot por Cargo](../graficos/catplot_salario_por_cargo.png)
+
+### 💥 Onde o Salário é um Fator Decisivo
+* **Observação:** Em cargos como **Executivo(a) de Vendas**, **Cientista de Pesquisa**, **Técnico(a) de Laboratório** e, principalmente, **Representante de Vendas**, a diferença salarial entre quem sai e quem fica é gritante. A caixa inteira do grupo "Saiu" está, em geral, abaixo da linha mediana do grupo "Ficou".
+* **O que isso significa?** Para estes grupos, um salário não competitivo não é apenas um fator, é provavelmente o **motivo principal** da saída. A insatisfação financeira é um problema agudo e a causa raiz do *turnover* nestas áreas, que são a base operacional e de vendas da empresa.
+
+### 🤔 Onde o Dinheiro Não é o Maior Problema
+* **Observação:** Para **Diretor(a) de Manufatura** e **Representante de Saúde**, os boxplots dos dois grupos ("Saiu" e "Ficou") são muito mais parecidos, com uma grande sobreposição de valores.
+* **O que isso significa?** Nestes cargos, o salário parece ter um impacto menor na decisão de sair. As saídas aqui são provavelmente motivadas por outros fatores, como **problemas de gestão, cultura da empresa ou falta de novos desafios**. Uma simples contraproposta salarial pode não ser eficaz para reter esses talentos.
+
+### 👑 O Dilema da Alta Liderança
+* **Observação:** Nos cargos de **Gerente** e **Diretor(a) de Pesquisa**, o número de saídas é baixíssimo (como vimos no gráfico de barras anterior). Mesmo assim, os poucos que saem ainda possuem salários elevados e competitivos.
+* **O que isso significa?** Isso reforça a ideia de que a retenção da liderança é um ponto forte da empresa. As raras saídas neste nível quase certamente não são por dinheiro, mas por questões estratégicas, de autonomia ou pessoais de altíssimo nível.
+
+### 🎯 Conclusão Estratégica: Não Existe "Bala de Prata"
+* **O que isso significa?** A principal conclusão deste gráfico é que **a empresa não pode ter uma única política de retenção para todos**. A estratégia para segurar um "Representante de Vendas" (que deve ser fortemente focada em rever o plano de compensação) precisa ser totalmente diferente da estratégia para um "Representante de Saúde" (que deve focar mais em desenvolvimento e qualidade da gestão), por exemplo. A análise de dados permite essa personalização das ações de RH.
+
+---
+
+## ⏰ O Custo das Horas Extras ⏰
+
+Análise do gráfico de barras que cruza a realização de horas extras (`OverTime`) com a decisão de sair da empresa.
+
+![Custo das Horas Extras](../graficos/barras_overtime_vs_saida.png)
+
+### 🔥 O Risco Multiplicado por 3
+* **Observação:** A taxa de saída para quem **não faz** horas extras é de **10.4%** (110 de 1054). Para quem **faz**, essa taxa salta para **30.5%** (127 de 416).
+* **O que isso significa?** Um funcionário que faz horas extras tem **praticamente 3 vezes mais chance** de pedir demissão. A sobrecarga de trabalho não é apenas um fator de desgaste, é um dos principais catalisadores do *turnover* nesta empresa. Este é um dos indicadores preditivos mais fortes que encontramos.
+
+### 🎯 O Impacto Desproporcional na Retenção
+* **Observação:** O grupo que faz horas extras representa apenas **28%** da força de trabalho total da empresa (416 de 1470 funcionários).
+* **O que isso significa?** Embora sejam minoria na empresa, este pequeno grupo de 28% é responsável por **mais da metade (53%) de todas as saídas**. Combater a cultura de horas extras é a ação com o maior potencial de impacto para reduzir o *turnover* geral da empresa.
+
+### 💸 O Custo Oculto da Sobrecarga
+* **Observação:** O número absoluto de pessoas que fazem horas extras e saem (127) é maior do que o número de pessoas que não fazem e saem (110).
+* **O que isso significa?** A empresa está, literalmente, perdendo mais gente por esgotamento e burnout do que por uma "insatisfação geral" durante o horário normal de trabalho. Isso reforça que as saídas não são apenas sobre salário ou cargo, mas sobre **bem-estar e a sustentabilidade do ritmo de trabalho**. É um problema direto de saúde organizacional.
+
+---
+
+## 🔗 O Gráfico de Correlação 🔗
+
+Análise final que resume a força e a direção da relação de cada fator numérico com a saída de um colaborador.
+
+![Correlação](../graficos/barras_correlacao_saida.png)
+
+### 🏛️ Os Pilares da Retenção: Senioridade e Salário
+* **Observação:** As correlações negativas mais fortes (os maiores valores negativos) são com **Total de Anos de Carreira (-0.17)**, **Nível do Cargo (-0.17)**, **Salário Mensal (-0.16)** e **Idade (-0.16)**.
+* **O que isso significa?** Este é o perfil claro do funcionário que **fica**: mais velho, com mais experiência, em um cargo mais alto e com maior salário. A falta de um desses pilares, especialmente o salário e a progressão de cargo, é o principal fator de risco para a saída. O gráfico confirma tudo que vimos nos boxplots e histogramas.
+
+### 🤝 O Poder do Vínculo e da Estabilidade
+* **Observação:** **Anos na Empresa (-0.13)**, **Anos no Cargo Atual (-0.16)** e **Anos com o Gestor Atual (-0.16)** também mostram uma correlação negativa relevante.
+* **O que isso significa?** O tempo cria um vínculo que ajuda a reter os funcionários. A rotatividade é maior no início do "ciclo" de um colaborador na empresa, no cargo ou com um novo gestor. Isso sugere que os primeiros anos são um período crítico para a integração e para mostrar um caminho de crescimento.
+
+### 🤔 Os Fatores Surpreendentemente Fracos
+* **Observação:** Fatores como **% de Aumento Salarial (-0.01)**, **Equilíbrio Vida-Trabalho (-0.06)** e **Distância de Casa (0.08)** possuem uma correlação muito próxima de zero.
+* **O que isso significa?** Esta é uma descoberta crucial e contraintuitiva.
+    * Não adianta dar pequenos aumentos se o **salário base** for baixo; o problema é estrutural.
+    * Nesta empresa, o equilíbrio vida-trabalho e a distância de casa, embora importantes, **não são os principais motivos** que levam à demissão, ao contrário do que o senso comum poderia sugerir. O foco da empresa deve estar nos problemas mais impactantes de carreira e remuneração.
+
+---
+
+## 🏁 Conclusões e Recomendações Estratégicas 🏁
+
+Após uma análise exploratória completa dos dados de recursos humanos da empresa, foi possível traçar um diagnóstico claro sobre os fatores que influenciam a saída de colaboradores.
+
+***
+
+### Resumo da Análise
+A análise revelou que o *turnover* na empresa não é um problema generalizado, mas sim um fenômeno concentrado em **cargos de nível de entrada e operacionais**, como `Técnicos de Laboratório` e `Representantes de Vendas`. Os principais fatores que impulsionam essa saída são uma combinação de **baixos salários**, uma percepção de **falta de oportunidades de carreira** (poucas promoções) e o **desgaste gerado por horas extras recorrentes**. A estrutura enxuta do departamento de RH foi identificada como um possível risco que agrava a situação, dificultando a implementação de programas de retenção eficazes.
+
+***
+
+### 💡 Plano de Ação Recomendado
+Com base nos insights gerados, as seguintes ações estratégicas são recomendadas:
+* **1. Foco nas "Zonas Quentes":**
+    * Criar um plano de ação direcionado para os cargos com maior taxa de saída. Isso deve incluir uma revisão completa da estrutura de compensação e metas para `Representantes de Vendas` e um plano de desenvolvimento de carreira claro para `Técnicos de Laboratório`.
+* **2. Combater a Cultura de Horas Extras:**
+    * Implementar políticas para monitorar e reduzir a necessidade de horas extras, que se mostraram um dos fatores com a correlação mais forte com a saída. Avaliar a carga de trabalho e a distribuição de tarefas nas equipes mais afetadas é um passo crucial.
+* **3. Tornar o Plano de Carreira Visível:**
+    * Desenvolver e comunicar de forma clara as trilhas de carreira e os critérios para promoção. O fato de "Anos desde a Última Promoção" ser um fator chave mostra que a percepção de estagnação é um problema real que precisa ser endereçado.
+* **4. Fortalecer o Departamento de RH:**
+    * Analisar a capacidade e os recursos do departamento de Recursos Humanos. Para uma empresa deste porte, fortalecer a equipe de RH é um investimento estratégico para o sucesso de qualquer iniciativa de retenção de talentos.
+      
+
+***
