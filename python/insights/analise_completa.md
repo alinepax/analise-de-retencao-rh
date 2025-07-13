@@ -209,8 +209,6 @@ Análise final que resume a força e a direção da relação de cada fator num�
 
 Após uma análise exploratória completa dos dados de recursos humanos da empresa, foi possível traçar um diagnóstico claro sobre os fatores que influenciam a saída de colaboradores.
 
-***
-
 ### Resumo da Análise
 A análise revelou que o *turnover* na empresa não é um problema generalizado, mas sim um fenômeno concentrado em **cargos de nível de entrada e operacionais**, como `Técnicos de Laboratório` e `Representantes de Vendas`. Os principais fatores que impulsionam essa saída são uma combinação de **baixos salários**, uma percepção de **falta de oportunidades de carreira** (poucas promoções) e o **desgaste gerado por horas extras recorrentes**. A estrutura enxuta do departamento de RH foi identificada como um possível risco que agrava a situação, dificultando a implementação de programas de retenção eficazes.
 
