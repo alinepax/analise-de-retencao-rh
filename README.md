@@ -22,6 +22,7 @@ A análise foi construída sobre duas fontes de dados combinadas para simular um
 * **Dados Sintéticos para Automação:** Para validar o pipeline de automação, foram gerados e adicionados **3 novos registros de colaboradores fictícios**. O objetivo foi simular a entrada de novas contratações no sistema de RH e testar a capacidade do pipeline de processar dados atualizados e calcular o score de risco para os novos funcionários.
 
 A base de dados final utilizada para a automação e para o dashboard contém, portanto, um total de **1.473 registros**.
+
 ---
 
 ## 📁 Estrutura do Repositório
@@ -51,10 +52,10 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 ---
    
 ## 🧰 Ferramentas Utilizadas
-✅ **Python** — Para todo o processamento, análise e automação.
-    * **Pandas:** Manipulação e tratamento dos dados.
-    * **Seaborn & Matplotlib:** Visualização de dados na análise exploratória.
-    * **Gspread & oauth2client:** Conexão e automação com a API do Google Sheets.
+✅ **Python** — Para todo o processamento, análise e automação.  
+    * **Pandas:** Manipulação e tratamento dos dados.  
+    * **Seaborn & Matplotlib:** Visualização de dados na análise exploratória.  
+    * **Gspread & oauth2client:** Conexão e automação com a API do Google Sheets.  
 ✅ **Power BI Desktop** — Para a criação do dashboard interativo final.  
 ✅ **Git & GitHub** (para versionamento e apresentação do projeto)
 
