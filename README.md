@@ -53,9 +53,9 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
    
 ## 🧰 Ferramentas Utilizadas
 ✅ **Python** — Para todo o processamento, análise e automação.  
-    * **Pandas:** Manipulação e tratamento dos dados.  
-    * **Seaborn & Matplotlib:** Visualização de dados na análise exploratória.  
-    * **Gspread & oauth2client:** Conexão e automação com a API do Google Sheets.  
+✅ **Pandas:** Manipulação e tratamento dos dados.  
+✅ **Seaborn & Matplotlib:** Visualização de dados na análise exploratória.  
+✅ **Gspread & oauth2client:** Conexão e automação com a API do Google Sheets.  
 ✅ **Power BI Desktop** — Para a criação do dashboard interativo final.  
 ✅ **Git & GitHub** (para versionamento e apresentação do projeto)
 
@@ -83,6 +83,14 @@ O salário é um claro divisor de águas. Cerca de **75% dos colaboradores que s
 ![Gráfico de Saídas por Cargo](python/graficos/barras_saidas_por_cargo.png)
 
 O turnover não é um problema homogêneo; ele se concentra em cargos específicos. **Representante de Vendas**, **Técnico de Laboratório** e **Recursos Humanos** apresentam as maiores taxas de saída, indicando que os problemas de retenção são mais agudos em funções de entrada ou de suporte operacional.
+
+---
+
+### 📌 Análise Exploratória Completa
+
+Toda a investigação detalhada, com os gráficos e insights que nortearam este projeto, está documentada em uma página dedicada.
+
+➡️ **[Clique aqui para ver a Análise Exploratória Completa](./python/insights/analise_completa.md)**
 
 ---
 
