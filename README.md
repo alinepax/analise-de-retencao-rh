@@ -30,7 +30,7 @@ A base de dados final utilizada para a automação e para o dashboard contém, p
 ```
 /analise-de-retencao-rh/
 |
-├── 📂 dados/
+├── 📂 data/
 |   ├── dados_completos_rh.csv                   # Dataset final com dados sintéticos adicionados
 |   ├── Base_de_Dados_RH_Automação.csv           # Base final usada na automação com 3 novos colaboradores
 |   └── WA_Fn-UseC_-HR-Employee-Attrition.csv    # Dataset original da IBM
